@@ -1,0 +1,1 @@
+{"tokens": ["22,000", "CM", "ICEO", "22,000CASH"], "bboxes": [[621, 646, 834, 681], [244, 651, 310, 684], [82, 657, 212, 688], [81, 682, 825, 731]], "labels": [[0, "menu.price"], [1, "menu.nm"], [1, "menu.nm"], [2, "total.cashprice"]], "linkings": null, "image_path": "/media/ai2lab/4TB SSD/Datasets/Token-Path-Prediction-Datasets/CORD-r/images/train_0113.png"}
