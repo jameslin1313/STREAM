@@ -1,0 +1,1294 @@
+{
+    "form": [
+        {
+            "text": "Vendor",
+            "box": [
+                96,
+                120,
+                162,
+                133
+            ],
+            "label": "header"
+        },
+        {
+            "text": "On",
+            "box": [
+                166,
+                120,
+                191,
+                133
+            ],
+            "label": "header"
+        },
+        {
+            "text": "-",
+            "box": [
+                192,
+                120,
+                197,
+                133
+            ],
+            "label": "header"
+        },
+        {
+            "text": "Boarding",
+            "box": [
+                200,
+                120,
+                277,
+                134
+            ],
+            "label": "header"
+        },
+        {
+            "text": "Form",
+            "box": [
+                285,
+                120,
+                328,
+                134
+            ],
+            "label": "header"
+        },
+        {
+            "text": "供应",
+            "box": [
+                335,
+                121,
+                377,
+                134
+            ],
+            "label": "header"
+        },
+        {
+            "text": "商",
+            "box": [
+                381,
+                121,
+                399,
+                134
+            ],
+            "label": "header"
+        },
+        {
+            "text": "登记",
+            "box": [
+                402,
+                121,
+                442,
+                134
+            ],
+            "label": "header"
+        },
+        {
+            "text": "表",
+            "box": [
+                445,
+                121,
+                464,
+                134
+            ],
+            "label": "header"
+        },
+        {
+            "text": "General",
+            "box": [
+                97,
+                146,
+                157,
+                157
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Company",
+            "box": [
+                163,
+                146,
+                237,
+                157
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Information",
+            "box": [
+                243,
+                146,
+                333,
+                157
+            ],
+            "label": "question"
+        },
+        {
+            "text": "公司",
+            "box": [
+                341,
+                146,
+                375,
+                157
+            ],
+            "label": "question"
+        },
+        {
+            "text": "信息",
+            "box": [
+                378,
+                146,
+                414,
+                157
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Legal",
+            "box": [
+                97,
+                172,
+                129,
+                181
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Entity",
+            "box": [
+                135,
+                172,
+                171,
+                181
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Name",
+            "box": [
+                175,
+                172,
+                212,
+                181
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                216,
+                172,
+                227,
+                181
+            ],
+            "label": "question"
+        },
+        {
+            "text": "English",
+            "box": [
+                232,
+                172,
+                278,
+                181
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Guangdong",
+            "box": [
+                522,
+                182,
+                614,
+                194
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Foreign",
+            "box": [
+                621,
+                182,
+                680,
+                194
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Trade",
+            "box": [
+                686,
+                182,
+                733,
+                194
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Imp",
+            "box": [
+                740,
+                182,
+                768,
+                194
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ".",
+            "box": [
+                770,
+                182,
+                772,
+                194
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "&",
+            "box": [
+                775,
+                182,
+                786,
+                194
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Exp.Corp",
+            "box": [
+                788,
+                182,
+                861,
+                194
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "英文",
+            "box": [
+                97,
+                187,
+                127,
+                195
+            ],
+            "label": "question"
+        },
+        {
+            "text": "企业",
+            "box": [
+                129,
+                187,
+                158,
+                195
+            ],
+            "label": "question"
+        },
+        {
+            "text": "名称",
+            "box": [
+                161,
+                187,
+                190,
+                195
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Legal",
+            "box": [
+                96,
+                213,
+                129,
+                224
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Entity",
+            "box": [
+                134,
+                213,
+                170,
+                224
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Street",
+            "box": [
+                174,
+                213,
+                211,
+                224
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Address",
+            "box": [
+                215,
+                212,
+                266,
+                223
+            ],
+            "label": "question"
+        },
+        {
+            "text": "广东",
+            "box": [
+                324,
+                215,
+                362,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "省",
+            "box": [
+                364,
+                215,
+                381,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "广州",
+            "box": [
+                382,
+                215,
+                416,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "市",
+            "box": [
+                419,
+                216,
+                436,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "天河",
+            "box": [
+                438,
+                216,
+                474,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "区",
+            "box": [
+                476,
+                216,
+                492,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "天河",
+            "box": [
+                495,
+                216,
+                531,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "路",
+            "box": [
+                532,
+                216,
+                550,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "351",
+            "box": [
+                551,
+                216,
+                579,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "号",
+            "box": [
+                581,
+                216,
+                599,
+                228
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "广东",
+            "box": [
+                601,
+                216,
+                636,
+                229
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "外",
+            "box": [
+                638,
+                216,
+                655,
+                229
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "经贸",
+            "box": [
+                657,
+                216,
+                692,
+                229
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "大厦",
+            "box": [
+                694,
+                216,
+                731,
+                229
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "15-18",
+            "box": [
+                733,
+                216,
+                779,
+                229
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "楼",
+            "box": [
+                779,
+                217,
+                797,
+                229
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "企业",
+            "box": [
+                96,
+                230,
+                126,
+                237
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地址",
+            "box": [
+                129,
+                230,
+                158,
+                237
+            ],
+            "label": "question"
+        },
+        {
+            "text": "City",
+            "box": [
+                95,
+                256,
+                120,
+                265
+            ],
+            "label": "question"
+        },
+        {
+            "text": "广州",
+            "box": [
+                324,
+                257,
+                362,
+                271
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "市",
+            "box": [
+                363,
+                257,
+                381,
+                270
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Region",
+            "box": [
+                505,
+                257,
+                547,
+                267
+            ],
+            "label": "question"
+        },
+        {
+            "text": "State",
+            "box": [
+                554,
+                256,
+                585,
+                266
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                547,
+                257,
+                553,
+                266
+            ],
+            "label": "question"
+        },
+        {
+            "text": "广东",
+            "box": [
+                672,
+                261,
+                708,
+                273
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "省",
+            "box": [
+                710,
+                261,
+                727,
+                274
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "城市",
+            "box": [
+                96,
+                271,
+                126,
+                279
+            ],
+            "label": "question"
+        },
+        {
+            "text": "省份",
+            "box": [
+                504,
+                272,
+                535,
+                280
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Postal",
+            "box": [
+                95,
+                299,
+                133,
+                306
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Code",
+            "box": [
+                137,
+                299,
+                169,
+                306
+            ],
+            "label": "question"
+        },
+        {
+            "text": "510000",
+            "box": [
+                325,
+                301,
+                387,
+                310
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Country",
+            "box": [
+                504,
+                299,
+                555,
+                309
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Please",
+            "box": [
+                608,
+                308,
+                646,
+                317
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Select",
+            "box": [
+                651,
+                308,
+                689,
+                317
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "请",
+            "box": [
+                693,
+                309,
+                708,
+                317
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "选择",
+            "box": [
+                710,
+                309,
+                739,
+                317
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "邮政编码",
+            "box": [
+                97,
+                314,
+                157,
+                322
+            ],
+            "label": "question"
+        },
+        {
+            "text": "国家",
+            "box": [
+                505,
+                314,
+                534,
+                323
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Communication",
+            "box": [
+                94,
+                339,
+                195,
+                350
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Language",
+            "box": [
+                201,
+                341,
+                265,
+                351
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Please",
+            "box": [
+                504,
+                349,
+                543,
+                359
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "通信",
+            "box": [
+                95,
+                356,
+                126,
+                364
+            ],
+            "label": "question"
+        },
+        {
+            "text": "语言",
+            "box": [
+                127,
+                356,
+                157,
+                364
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Select",
+            "box": [
+                547,
+                350,
+                585,
+                359
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "请",
+            "box": [
+                590,
+                350,
+                605,
+                359
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "选择",
+            "box": [
+                606,
+                350,
+                636,
+                360
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Contact",
+            "box": [
+                95,
+                383,
+                156,
+                393
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Information",
+            "box": [
+                162,
+                383,
+                252,
+                393
+            ],
+            "label": "question"
+        },
+        {
+            "text": "联系",
+            "box": [
+                259,
+                383,
+                295,
+                393
+            ],
+            "label": "question"
+        },
+        {
+            "text": "方式",
+            "box": [
+                296,
+                383,
+                333,
+                393
+            ],
+            "label": "question"
+        },
+        {
+            "text": "|",
+            "box": [
+                90,
+                407,
+                93,
+                419
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Primary",
+            "box": [
+                95,
+                407,
+                156,
+                419
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Administrator",
+            "box": [
+                160,
+                407,
+                270,
+                419
+            ],
+            "label": "question"
+        },
+        {
+            "text": "首要",
+            "box": [
+                278,
+                407,
+                314,
+                419
+            ],
+            "label": "question"
+        },
+        {
+            "text": "联系人",
+            "box": [
+                317,
+                407,
+                371,
+                419
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Name",
+            "box": [
+                94,
+                430,
+                132,
+                438
+            ],
+            "label": "question"
+        },
+        {
+            "text": "魏高平",
+            "box": [
+                591,
+                431,
+                645,
+                443
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "姓名",
+            "box": [
+                93,
+                445,
+                122,
+                453
+            ],
+            "label": "question"
+        },
+        {
+            "text": "「",
+            "box": [
+                90,
+                469,
+                93,
+                480
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Phone",
+            "box": [
+                93,
+                469,
+                134,
+                480
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Number",
+            "box": [
+                140,
+                469,
+                191,
+                480
+            ],
+            "label": "question"
+        },
+        {
+            "text": "(",
+            "box": [
+                195,
+                470,
+                199,
+                480
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Country",
+            "box": [
+                200,
+                470,
+                250,
+                480
+            ],
+            "label": "question"
+        },
+        {
+            "text": "code",
+            "box": [
+                255,
+                470,
+                285,
+                480
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                285,
+                470,
+                288,
+                480
+            ],
+            "label": "question"
+        },
+        {
+            "text": "area",
+            "box": [
+                293,
+                470,
+                318,
+                481
+            ],
+            "label": "question"
+        },
+        {
+            "text": "code",
+            "box": [
+                323,
+                470,
+                354,
+                481
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                355,
+                470,
+                357,
+                481
+            ],
+            "label": "question"
+        },
+        {
+            "text": "phone",
+            "box": [
+                362,
+                470,
+                402,
+                481
+            ],
+            "label": "question"
+        },
+        {
+            "text": "number",
+            "box": [
+                407,
+                470,
+                456,
+                481
+            ],
+            "label": "question"
+        },
+        {
+            "text": ")",
+            "box": [
+                456,
+                471,
+                460,
+                481
+            ],
+            "label": "question"
+        },
+        {
+            "text": "15694562122",
+            "box": [
+                570,
+                477,
+                683,
+                486
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "|",
+            "box": [
+                90,
+                485,
+                93,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "电话",
+            "box": [
+                95,
+                485,
+                123,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "(",
+            "box": [
+                134,
+                485,
+                138,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "国家",
+            "box": [
+                143,
+                485,
+                170,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "代码",
+            "box": [
+                173,
+                485,
+                202,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "+",
+            "box": [
+                204,
+                485,
+                212,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "区号",
+            "box": [
+                216,
+                485,
+                244,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "+",
+            "box": [
+                245,
+                485,
+                255,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "电话",
+            "box": [
+                258,
+                485,
+                286,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "号码",
+            "box": [
+                289,
+                485,
+                318,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": ")",
+            "box": [
+                321,
+                485,
+                325,
+                495
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Email",
+            "box": [
+                93,
+                513,
+                128,
+                521
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Address",
+            "box": [
+                132,
+                513,
+                182,
+                521
+            ],
+            "label": "question"
+        },
+        {
+            "text": "gftiec@gftiec.c",
+            "box": [
+                570,
+                518,
+                692,
+                530
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "电子邮件",
+            "box": [
+                94,
+                528,
+                156,
+                537
+            ],
+            "label": "question"
+        },
+        {
+            "text": "om",
+            "box": [
+                570,
+                535,
+                592,
+                542
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Last",
+            "box": [
+                93,
+                567,
+                118,
+                577
+            ],
+            "label": "other"
+        },
+        {
+            "text": "updated",
+            "box": [
+                121,
+                567,
+                172,
+                576
+            ],
+            "label": "other"
+        },
+        {
+            "text": "on",
+            "box": [
+                177,
+                567,
+                191,
+                576
+            ],
+            "label": "other"
+        },
+        {
+            "text": "9/26/2016",
+            "box": [
+                195,
+                566,
+                256,
+                576
+            ],
+            "label": "other"
+        },
+        {
+            "text": "更新",
+            "box": [
+                95,
+                583,
+                126,
+                593
+            ],
+            "label": "question"
+        },
+        {
+            "text": "日期",
+            "box": [
+                128,
+                583,
+                158,
+                593
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                159,
+                583,
+                162,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "2016.9.26",
+            "box": [
+                173,
+                583,
+                257,
+                593
+            ],
+            "label": "answer"
+        }
+    ]
+}

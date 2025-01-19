@@ -1,0 +1,1694 @@
+{
+    "form": [
+        {
+            "text": "来",
+            "box": [
+                334,
+                102,
+                362,
+                122
+            ],
+            "label": "header"
+        },
+        {
+            "text": "馆",
+            "box": [
+                364,
+                102,
+                393,
+                122
+            ],
+            "label": "header"
+        },
+        {
+            "text": "办证",
+            "box": [
+                396,
+                102,
+                453,
+                123
+            ],
+            "label": "header"
+        },
+        {
+            "text": "人员",
+            "box": [
+                456,
+                103,
+                513,
+                123
+            ],
+            "label": "header"
+        },
+        {
+            "text": "信息",
+            "box": [
+                516,
+                103,
+                573,
+                123
+            ],
+            "label": "header"
+        },
+        {
+            "text": "登记",
+            "box": [
+                576,
+                103,
+                633,
+                124
+            ],
+            "label": "header"
+        },
+        {
+            "text": "表",
+            "box": [
+                638,
+                104,
+                665,
+                123
+            ],
+            "label": "header"
+        },
+        {
+            "text": "Registration",
+            "box": [
+                314,
+                142,
+                474,
+                158
+            ],
+            "label": "header"
+        },
+        {
+            "text": "Form",
+            "box": [
+                483,
+                142,
+                552,
+                158
+            ],
+            "label": "header"
+        },
+        {
+            "text": "of",
+            "box": [
+                562,
+                142,
+                590,
+                158
+            ],
+            "label": "header"
+        },
+        {
+            "text": "Visitor",
+            "box": [
+                594,
+                142,
+                685,
+                158
+            ],
+            "label": "header"
+        },
+        {
+            "text": "姓名",
+            "box": [
+                183,
+                185,
+                228,
+                201
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Name",
+            "box": [
+                238,
+                186,
+                296,
+                202
+            ],
+            "label": "question"
+        },
+        {
+            "text": "性别",
+            "box": [
+                568,
+                186,
+                613,
+                202
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Sex",
+            "box": [
+                622,
+                187,
+                656,
+                203
+            ],
+            "label": "question"
+        },
+        {
+            "text": "男",
+            "box": [
+                733,
+                191,
+                749,
+                202
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "庄毅武",
+            "box": [
+                350,
+                196,
+                397,
+                207
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "出生",
+            "box": [
+                166,
+                238,
+                209,
+                255
+            ],
+            "label": "question"
+        },
+        {
+            "text": "日期",
+            "box": [
+                216,
+                238,
+                257,
+                255
+            ],
+            "label": "question"
+        },
+        {
+            "text": "DOB",
+            "box": [
+                266,
+                239,
+                315,
+                255
+            ],
+            "label": "question"
+        },
+        {
+            "text": "1995.1.18",
+            "box": [
+                376,
+                242,
+                437,
+                251
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "国籍",
+            "box": [
+                532,
+                241,
+                575,
+                257
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Nationality",
+            "box": [
+                581,
+                242,
+                694,
+                259
+            ],
+            "label": "question"
+        },
+        {
+            "text": "中国",
+            "box": [
+                752,
+                245,
+                782,
+                257
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "手机",
+            "box": [
+                355,
+                289,
+                402,
+                305
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Cellphone",
+            "box": [
+                408,
+                291,
+                510,
+                308
+            ],
+            "label": "question"
+        },
+        {
+            "text": "13719224055",
+            "box": [
+                609,
+                296,
+                695,
+                304
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "联系",
+            "box": [
+                190,
+                303,
+                235,
+                319
+            ],
+            "label": "question"
+        },
+        {
+            "text": "方式",
+            "box": [
+                238,
+                303,
+                284,
+                319
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Contact",
+            "box": [
+                197,
+                326,
+                279,
+                337
+            ],
+            "label": "question"
+        },
+        {
+            "text": "电子",
+            "box": [
+                349,
+                336,
+                393,
+                352
+            ],
+            "label": "question"
+        },
+        {
+            "text": "邮箱",
+            "box": [
+                398,
+                336,
+                440,
+                352
+            ],
+            "label": "question"
+        },
+        {
+            "text": "E",
+            "box": [
+                451,
+                337,
+                463,
+                352
+            ],
+            "label": "question"
+        },
+        {
+            "text": "-",
+            "box": [
+                464,
+                337,
+                471,
+                352
+            ],
+            "label": "question"
+        },
+        {
+            "text": "mail",
+            "box": [
+                472,
+                337,
+                517,
+                352
+            ],
+            "label": "question"
+        },
+        {
+            "text": "zyw@126.com",
+            "box": [
+                585,
+                348,
+                682,
+                357
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "详细",
+            "box": [
+                191,
+                373,
+                234,
+                389
+            ],
+            "label": "question"
+        },
+        {
+            "text": "住址",
+            "box": [
+                237,
+                374,
+                283,
+                389
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Address",
+            "box": [
+                195,
+                397,
+                278,
+                407
+            ],
+            "label": "question"
+        },
+        {
+            "text": "陕西",
+            "box": [
+                427,
+                389,
+                456,
+                400
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "省",
+            "box": [
+                458,
+                389,
+                472,
+                400
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "汉中",
+            "box": [
+                486,
+                389,
+                515,
+                400
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "市",
+            "box": [
+                518,
+                389,
+                532,
+                400
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ",",
+            "box": [
+                534,
+                389,
+                536,
+                400
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "留坝县",
+            "box": [
+                546,
+                389,
+                591,
+                401
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "1",
+            "box": [
+                161,
+                425,
+                170,
+                440
+            ],
+            "label": "question"
+        },
+        {
+            "text": "、",
+            "box": [
+                175,
+                425,
+                180,
+                440
+            ],
+            "label": "question"
+        },
+        {
+            "text": "身体",
+            "box": [
+                197,
+                425,
+                243,
+                440
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是否",
+            "box": [
+                245,
+                425,
+                291,
+                440
+            ],
+            "label": "question"
+        },
+        {
+            "text": "有",
+            "box": [
+                292,
+                425,
+                314,
+                440
+            ],
+            "label": "question"
+        },
+        {
+            "text": "不适",
+            "box": [
+                318,
+                425,
+                362,
+                440
+            ],
+            "label": "question"
+        },
+        {
+            "text": "症状",
+            "box": [
+                366,
+                425,
+                410,
+                440
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                415,
+                425,
+                424,
+                440
+            ],
+            "label": "question"
+        },
+        {
+            "text": "□",
+            "box": [
+                747,
+                429,
+                763,
+                442
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是",
+            "box": [
+                765,
+                429,
+                787,
+                442
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                795,
+                429,
+                827,
+                443
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Do",
+            "box": [
+                160,
+                464,
+                187,
+                478
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                194,
+                464,
+                231,
+                478
+            ],
+            "label": "question"
+        },
+        {
+            "text": "have",
+            "box": [
+                238,
+                464,
+                285,
+                478
+            ],
+            "label": "question"
+        },
+        {
+            "text": "any",
+            "box": [
+                293,
+                464,
+                329,
+                478
+            ],
+            "label": "question"
+        },
+        {
+            "text": "health",
+            "box": [
+                337,
+                464,
+                400,
+                478
+            ],
+            "label": "question"
+        },
+        {
+            "text": "problems",
+            "box": [
+                407,
+                464,
+                500,
+                478
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                505,
+                464,
+                515,
+                478
+            ],
+            "label": "question"
+        },
+        {
+            "text": "口",
+            "box": [
+                745,
+                464,
+                764,
+                478
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                763,
+                464,
+                787,
+                478
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                795,
+                465,
+                822,
+                479
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2",
+            "box": [
+                160,
+                497,
+                170,
+                513
+            ],
+            "label": "question"
+        },
+        {
+            "text": "、",
+            "box": [
+                174,
+                497,
+                179,
+                513
+            ],
+            "label": "question"
+        },
+        {
+            "text": "过去",
+            "box": [
+                195,
+                497,
+                241,
+                513
+            ],
+            "label": "question"
+        },
+        {
+            "text": "14",
+            "box": [
+                252,
+                497,
+                272,
+                514
+            ],
+            "label": "question"
+        },
+        {
+            "text": "天内",
+            "box": [
+                279,
+                498,
+                322,
+                514
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是否",
+            "box": [
+                327,
+                498,
+                373,
+                514
+            ],
+            "label": "question"
+        },
+        {
+            "text": "有",
+            "box": [
+                375,
+                498,
+                395,
+                514
+            ],
+            "label": "question"
+        },
+        {
+            "text": "新",
+            "box": [
+                400,
+                498,
+                421,
+                514
+            ],
+            "label": "question"
+        },
+        {
+            "text": "冠",
+            "box": [
+                424,
+                498,
+                445,
+                514
+            ],
+            "label": "question"
+        },
+        {
+            "text": "肺炎",
+            "box": [
+                449,
+                498,
+                493,
+                514
+            ],
+            "label": "question"
+        },
+        {
+            "text": "流行",
+            "box": [
+                497,
+                498,
+                541,
+                514
+            ],
+            "label": "question"
+        },
+        {
+            "text": "区域",
+            "box": [
+                547,
+                498,
+                589,
+                515
+            ],
+            "label": "question"
+        },
+        {
+            "text": "旅行",
+            "box": [
+                592,
+                498,
+                637,
+                515
+            ],
+            "label": "question"
+        },
+        {
+            "text": "史",
+            "box": [
+                641,
+                499,
+                660,
+                515
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                665,
+                499,
+                674,
+                515
+            ],
+            "label": "question"
+        },
+        {
+            "text": "□",
+            "box": [
+                745,
+                518,
+                761,
+                532
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是",
+            "box": [
+                764,
+                518,
+                787,
+                532
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                794,
+                518,
+                826,
+                533
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Have",
+            "box": [
+                159,
+                536,
+                211,
+                550
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                218,
+                536,
+                254,
+                550
+            ],
+            "label": "question"
+        },
+        {
+            "text": "traveled",
+            "box": [
+                263,
+                536,
+                346,
+                550
+            ],
+            "label": "question"
+        },
+        {
+            "text": "to",
+            "box": [
+                354,
+                537,
+                373,
+                550
+            ],
+            "label": "question"
+        },
+        {
+            "text": "areas",
+            "box": [
+                383,
+                537,
+                435,
+                551
+            ],
+            "label": "question"
+        },
+        {
+            "text": "affected",
+            "box": [
+                443,
+                537,
+                523,
+                551
+            ],
+            "label": "question"
+        },
+        {
+            "text": "by",
+            "box": [
+                532,
+                537,
+                556,
+                551
+            ],
+            "label": "question"
+        },
+        {
+            "text": "the",
+            "box": [
+                564,
+                537,
+                595,
+                551
+            ],
+            "label": "question"
+        },
+        {
+            "text": "coronavirus",
+            "box": [
+                604,
+                537,
+                723,
+                551
+            ],
+            "label": "question"
+        },
+        {
+            "text": "□",
+            "box": [
+                746,
+                554,
+                766,
+                568
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                766,
+                555,
+                789,
+                568
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                797,
+                555,
+                823,
+                569
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "in",
+            "box": [
+                158,
+                570,
+                177,
+                583
+            ],
+            "label": "question"
+        },
+        {
+            "text": "the",
+            "box": [
+                184,
+                570,
+                216,
+                584
+            ],
+            "label": "question"
+        },
+        {
+            "text": "last",
+            "box": [
+                223,
+                570,
+                259,
+                585
+            ],
+            "label": "question"
+        },
+        {
+            "text": "14",
+            "box": [
+                268,
+                571,
+                289,
+                585
+            ],
+            "label": "question"
+        },
+        {
+            "text": "days",
+            "box": [
+                297,
+                572,
+                341,
+                586
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                343,
+                572,
+                352,
+                586
+            ],
+            "label": "question"
+        },
+        {
+            "text": "3",
+            "box": [
+                157,
+                604,
+                169,
+                621
+            ],
+            "label": "question"
+        },
+        {
+            "text": "、",
+            "box": [
+                172,
+                604,
+                177,
+                621
+            ],
+            "label": "question"
+        },
+        {
+            "text": "过去",
+            "box": [
+                193,
+                604,
+                243,
+                622
+            ],
+            "label": "question"
+        },
+        {
+            "text": "14",
+            "box": [
+                253,
+                605,
+                274,
+                621
+            ],
+            "label": "question"
+        },
+        {
+            "text": "天内",
+            "box": [
+                285,
+                605,
+                329,
+                622
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是否",
+            "box": [
+                335,
+                605,
+                385,
+                622
+            ],
+            "label": "question"
+        },
+        {
+            "text": "与",
+            "box": [
+                389,
+                605,
+                410,
+                622
+            ],
+            "label": "question"
+        },
+        {
+            "text": "确诊",
+            "box": [
+                414,
+                606,
+                462,
+                622
+            ],
+            "label": "question"
+        },
+        {
+            "text": "患者",
+            "box": [
+                467,
+                606,
+                514,
+                623
+            ],
+            "label": "question"
+        },
+        {
+            "text": "或",
+            "box": [
+                518,
+                606,
+                539,
+                623
+            ],
+            "label": "question"
+        },
+        {
+            "text": "疑似",
+            "box": [
+                544,
+                606,
+                590,
+                623
+            ],
+            "label": "question"
+        },
+        {
+            "text": "人员",
+            "box": [
+                596,
+                606,
+                642,
+                623
+            ],
+            "label": "question"
+        },
+        {
+            "text": "有",
+            "box": [
+                648,
+                607,
+                668,
+                623
+            ],
+            "label": "question"
+        },
+        {
+            "text": "过",
+            "box": [
+                675,
+                607,
+                695,
+                623
+            ],
+            "label": "question"
+        },
+        {
+            "text": "接",
+            "box": [
+                700,
+                607,
+                721,
+                624
+            ],
+            "label": "question"
+        },
+        {
+            "text": "触",
+            "box": [
+                155,
+                641,
+                178,
+                656
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                183,
+                641,
+                192,
+                656
+            ],
+            "label": "question"
+        },
+        {
+            "text": "1",
+            "box": [
+                758,
+                645,
+                762,
+                659
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是",
+            "box": [
+                762,
+                645,
+                785,
+                659
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                793,
+                645,
+                824,
+                660
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Have",
+            "box": [
+                155,
+                679,
+                208,
+                694
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                221,
+                679,
+                258,
+                694
+            ],
+            "label": "question"
+        },
+        {
+            "text": "had",
+            "box": [
+                273,
+                680,
+                310,
+                694
+            ],
+            "label": "question"
+        },
+        {
+            "text": "contact",
+            "box": [
+                325,
+                680,
+                399,
+                695
+            ],
+            "label": "question"
+        },
+        {
+            "text": "with",
+            "box": [
+                413,
+                680,
+                458,
+                695
+            ],
+            "label": "question"
+        },
+        {
+            "text": "suspected",
+            "box": [
+                472,
+                680,
+                568,
+                695
+            ],
+            "label": "question"
+        },
+        {
+            "text": "or",
+            "box": [
+                583,
+                681,
+                605,
+                695
+            ],
+            "label": "question"
+        },
+        {
+            "text": "confirmed",
+            "box": [
+                619,
+                681,
+                722,
+                696
+            ],
+            "label": "question"
+        },
+        {
+            "text": "☑",
+            "box": [
+                745,
+                681,
+                760,
+                696
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No.",
+            "box": [
+                793,
+                682,
+                825,
+                696
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "COVID",
+            "box": [
+                157,
+                714,
+                233,
+                730
+            ],
+            "label": "question"
+        },
+        {
+            "text": "-",
+            "box": [
+                235,
+                715,
+                241,
+                730
+            ],
+            "label": "question"
+        },
+        {
+            "text": "19",
+            "box": [
+                244,
+                715,
+                266,
+                730
+            ],
+            "label": "question"
+        },
+        {
+            "text": "patients",
+            "box": [
+                274,
+                715,
+                353,
+                731
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                362,
+                716,
+                380,
+                731
+            ],
+            "label": "question"
+        },
+        {
+            "text": "the",
+            "box": [
+                388,
+                716,
+                419,
+                731
+            ],
+            "label": "question"
+        },
+        {
+            "text": "last",
+            "box": [
+                427,
+                716,
+                462,
+                731
+            ],
+            "label": "question"
+        },
+        {
+            "text": "14",
+            "box": [
+                472,
+                716,
+                492,
+                731
+            ],
+            "label": "question"
+        },
+        {
+            "text": "days",
+            "box": [
+                502,
+                716,
+                545,
+                732
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                547,
+                717,
+                556,
+                732
+            ],
+            "label": "question"
+        },
+        {
+            "text": "体温",
+            "box": [
+                209,
+                750,
+                255,
+                765
+            ],
+            "label": "question"
+        },
+        {
+            "text": "36.5",
+            "box": [
+                347,
+                770,
+                379,
+                777
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "°",
+            "box": [
+                421,
+                771,
+                447,
+                782
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "C",
+            "box": [
+                424,
+                771,
+                448,
+                782
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "时间",
+            "box": [
+                491,
+                769,
+                534,
+                784
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Time",
+            "box": [
+                543,
+                769,
+                594,
+                785
+            ],
+            "label": "question"
+        },
+        {
+            "text": "2020.",
+            "box": [
+                664,
+                772,
+                700,
+                780
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "5.10",
+            "box": [
+                705,
+                772,
+                736,
+                780
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Temperature",
+            "box": [
+                166,
+                789,
+                297,
+                802
+            ],
+            "label": "question"
+        },
+        {
+            "text": "*",
+            "box": [
+                155,
+                814,
+                163,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": "体温",
+            "box": [
+                166,
+                814,
+                211,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": "由",
+            "box": [
+                216,
+                814,
+                233,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": "工作",
+            "box": [
+                239,
+                814,
+                283,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": "人员",
+            "box": [
+                286,
+                814,
+                329,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": "测量",
+            "box": [
+                333,
+                814,
+                379,
+                831
+            ],
+            "label": "other"
+        },
+        {
+            "text": "后",
+            "box": [
+                383,
+                815,
+                402,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": "填写",
+            "box": [
+                406,
+                815,
+                450,
+                831
+            ],
+            "label": "other"
+        },
+        {
+            "text": "The",
+            "box": [
+                153,
+                837,
+                189,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "temperature",
+            "box": [
+                196,
+                837,
+                311,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "is",
+            "box": [
+                318,
+                837,
+                333,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "measured",
+            "box": [
+                341,
+                837,
+                432,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "and",
+            "box": [
+                440,
+                837,
+                473,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "filled",
+            "box": [
+                481,
+                837,
+                531,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                539,
+                837,
+                556,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "by",
+            "box": [
+                563,
+                837,
+                586,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                593,
+                837,
+                622,
+                852
+            ],
+            "label": "other"
+        },
+        {
+            "text": "staff",
+            "box": [
+                630,
+                837,
+                674,
+                852
+            ],
+            "label": "other"
+        }
+    ]
+}

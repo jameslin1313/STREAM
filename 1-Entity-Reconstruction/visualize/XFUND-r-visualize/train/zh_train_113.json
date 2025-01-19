@@ -1,0 +1,1734 @@
+{
+    "form": [
+        {
+            "text": "电话",
+            "box": [
+                114,
+                100,
+                151,
+                112
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                151,
+                100,
+                159,
+                112
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Phone",
+            "box": [
+                156,
+                100,
+                206,
+                112
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                207,
+                101,
+                210,
+                112
+            ],
+            "label": "question"
+        },
+        {
+            "text": "15835621254",
+            "box": [
+                246,
+                99,
+                363,
+                109
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "传真",
+            "box": [
+                525,
+                100,
+                563,
+                112
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                562,
+                100,
+                570,
+                112
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Fax",
+            "box": [
+                569,
+                100,
+                597,
+                113
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                599,
+                100,
+                603,
+                112
+            ],
+            "label": "other"
+        },
+        {
+            "text": "手机",
+            "box": [
+                112,
+                141,
+                151,
+                152
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                150,
+                141,
+                158,
+                152
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Cell",
+            "box": [
+                156,
+                141,
+                189,
+                152
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                190,
+                141,
+                193,
+                152
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                565,
+                141,
+                574,
+                152
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Email",
+            "box": [
+                572,
+                141,
+                618,
+                153
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                619,
+                142,
+                624,
+                153
+            ],
+            "label": "question"
+        },
+        {
+            "text": "kjlh@126.com",
+            "box": [
+                650,
+                140,
+                769,
+                153
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2.",
+            "box": [
+                111,
+                181,
+                126,
+                193
+            ],
+            "label": "question"
+        },
+        {
+            "text": "紧急",
+            "box": [
+                138,
+                181,
+                175,
+                193
+            ],
+            "label": "question"
+        },
+        {
+            "text": "联络",
+            "box": [
+                176,
+                181,
+                214,
+                193
+            ],
+            "label": "question"
+        },
+        {
+            "text": "人",
+            "box": [
+                216,
+                181,
+                233,
+                193
+            ],
+            "label": "question"
+        },
+        {
+            "text": "信息",
+            "box": [
+                235,
+                181,
+                271,
+                193
+            ],
+            "label": "question"
+        },
+        {
+            "text": "联络人",
+            "box": [
+                112,
+                206,
+                170,
+                222
+            ],
+            "label": "question"
+        },
+        {
+            "text": "1",
+            "box": [
+                176,
+                209,
+                184,
+                220
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                184,
+                209,
+                192,
+                220
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Contact",
+            "box": [
+                190,
+                209,
+                252,
+                220
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "#",
+            "box": [
+                256,
+                209,
+                266,
+                220
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "1",
+            "box": [
+                268,
+                209,
+                274,
+                220
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "姓名",
+            "box": [
+                112,
+                264,
+                148,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Name",
+            "box": [
+                156,
+                264,
+                202,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                150,
+                265,
+                157,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                203,
+                265,
+                207,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": "王凯",
+            "box": [
+                241,
+                264,
+                278,
+                275
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "家庭",
+            "box": [
+                466,
+                264,
+                503,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": "电话",
+            "box": [
+                506,
+                264,
+                541,
+                276
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                541,
+                265,
+                548,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Home",
+            "box": [
+                548,
+                264,
+                594,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Phone",
+            "box": [
+                600,
+                265,
+                647,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                649,
+                265,
+                652,
+                277
+            ],
+            "label": "question"
+        },
+        {
+            "text": "19063258711",
+            "box": [
+                674,
+                258,
+                769,
+                266
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Office",
+            "box": [
+                194,
+                322,
+                244,
+                333
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Phone",
+            "box": [
+                249,
+                322,
+                297,
+                333
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                297,
+                323,
+                302,
+                333
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                537,
+                322,
+                548,
+                333
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Cell",
+            "box": [
+                544,
+                322,
+                577,
+                333
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Phone",
+            "box": [
+                581,
+                322,
+                631,
+                334
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                631,
+                323,
+                635,
+                334
+            ],
+            "label": "question"
+        },
+        {
+            "text": "16535264751",
+            "box": [
+                661,
+                324,
+                774,
+                333
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "联络人",
+            "box": [
+                110,
+                376,
+                170,
+                393
+            ],
+            "label": "question"
+        },
+        {
+            "text": "2",
+            "box": [
+                173,
+                379,
+                184,
+                390
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                184,
+                379,
+                191,
+                390
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Contact",
+            "box": [
+                190,
+                379,
+                251,
+                390
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "#",
+            "box": [
+                255,
+                379,
+                264,
+                390
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2",
+            "box": [
+                264,
+                379,
+                274,
+                390
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "姓名",
+            "box": [
+                112,
+                435,
+                147,
+                447
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                150,
+                435,
+                156,
+                447
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Name",
+            "box": [
+                155,
+                435,
+                202,
+                448
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                204,
+                435,
+                206,
+                447
+            ],
+            "label": "question"
+        },
+        {
+            "text": "李",
+            "box": [
+                239,
+                435,
+                257,
+                447
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "月",
+            "box": [
+                258,
+                435,
+                273,
+                447
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "家庭",
+            "box": [
+                465,
+                434,
+                503,
+                446
+            ],
+            "label": "question"
+        },
+        {
+            "text": "电话",
+            "box": [
+                506,
+                434,
+                540,
+                447
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                541,
+                434,
+                547,
+                446
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Home",
+            "box": [
+                547,
+                434,
+                593,
+                447
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Phone",
+            "box": [
+                600,
+                435,
+                647,
+                447
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                649,
+                435,
+                652,
+                447
+            ],
+            "label": "question"
+        },
+        {
+            "text": "18563218712",
+            "box": [
+                671,
+                428,
+                767,
+                436
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Office",
+            "box": [
+                193,
+                492,
+                243,
+                503
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Phone",
+            "box": [
+                247,
+                492,
+                297,
+                503
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                296,
+                493,
+                300,
+                503
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                535,
+                492,
+                548,
+                503
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Cell",
+            "box": [
+                542,
+                492,
+                579,
+                503
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Phone",
+            "box": [
+                579,
+                492,
+                630,
+                504
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                630,
+                493,
+                634,
+                503
+            ],
+            "label": "question"
+        },
+        {
+            "text": "16530214578",
+            "box": [
+                661,
+                495,
+                777,
+                505
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "3.",
+            "box": [
+                110,
+                540,
+                126,
+                552
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Chinese",
+            "box": [
+                218,
+                541,
+                280,
+                553
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Language",
+            "box": [
+                285,
+                541,
+                362,
+                554
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Proficiency",
+            "box": [
+                368,
+                541,
+                457,
+                554
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                456,
+                542,
+                461,
+                554
+            ],
+            "label": "question"
+        },
+        {
+            "text": "£",
+            "box": [
+                110,
+                578,
+                131,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Ã",
+            "box": [
+                131,
+                578,
+                149,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "¥",
+            "box": [
+                150,
+                578,
+                167,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Ù",
+            "box": [
+                168,
+                578,
+                186,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "+",
+            "box": [
+                191,
+                578,
+                206,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "X",
+            "box": [
+                208,
+                578,
+                227,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                232,
+                578,
+                242,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                245,
+                578,
+                252,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Do",
+            "box": [
+                253,
+                578,
+                275,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                279,
+                578,
+                308,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "learn",
+            "box": [
+                314,
+                578,
+                353,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Chinese",
+            "box": [
+                358,
+                578,
+                420,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "already",
+            "box": [
+                425,
+                578,
+                483,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                483,
+                578,
+                491,
+                592
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                535,
+                578,
+                564,
+                592
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                625,
+                579,
+                644,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                643,
+                579,
+                650,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                649,
+                579,
+                673,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "***",
+            "box": [
+                110,
+                618,
+                167,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                175,
+                618,
+                181,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "***",
+            "box": [
+                189,
+                618,
+                244,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                347,
+                618,
+                358,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "If",
+            "box": [
+                372,
+                618,
+                390,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "yes",
+            "box": [
+                390,
+                618,
+                416,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                417,
+                618,
+                421,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "how",
+            "box": [
+                426,
+                618,
+                459,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "long",
+            "box": [
+                465,
+                618,
+                498,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "have",
+            "box": [
+                504,
+                618,
+                540,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                545,
+                618,
+                574,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "been",
+            "box": [
+                578,
+                618,
+                615,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "learning",
+            "box": [
+                620,
+                618,
+                684,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Chinese",
+            "box": [
+                689,
+                618,
+                750,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                751,
+                618,
+                759,
+                632
+            ],
+            "label": "question"
+        },
+        {
+            "text": "3",
+            "box": [
+                162,
+                643,
+                170,
+                653
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "年",
+            "box": [
+                171,
+                643,
+                189,
+                653
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "++",
+            "box": [
+                112,
+                697,
+                185,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                185,
+                697,
+                194,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Chinese",
+            "box": [
+                192,
+                697,
+                255,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Language",
+            "box": [
+                260,
+                697,
+                335,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Proficiency",
+            "box": [
+                342,
+                697,
+                431,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "(",
+            "box": [
+                437,
+                697,
+                443,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Basic",
+            "box": [
+                443,
+                697,
+                485,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                486,
+                697,
+                490,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Intermediate",
+            "box": [
+                495,
+                697,
+                593,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                593,
+                697,
+                597,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Advance",
+            "box": [
+                602,
+                697,
+                670,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": ")",
+            "box": [
+                670,
+                697,
+                677,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                677,
+                697,
+                682,
+                710
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Intermediate",
+            "box": [
+                208,
+                734,
+                295,
+                743
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是否",
+            "box": [
+                109,
+                775,
+                147,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "来",
+            "box": [
+                148,
+                775,
+                166,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "过",
+            "box": [
+                168,
+                775,
+                186,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "中国",
+            "box": [
+                189,
+                775,
+                224,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                227,
+                775,
+                234,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                233,
+                775,
+                240,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Have",
+            "box": [
+                240,
+                775,
+                280,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                285,
+                775,
+                313,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "been",
+            "box": [
+                318,
+                775,
+                356,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "to",
+            "box": [
+                361,
+                775,
+                375,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "China",
+            "box": [
+                382,
+                775,
+                427,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "before",
+            "box": [
+                433,
+                775,
+                481,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                483,
+                775,
+                489,
+                789
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是",
+            "box": [
+                510,
+                775,
+                529,
+                789
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                529,
+                775,
+                537,
+                789
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                534,
+                775,
+                561,
+                789
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "□",
+            "box": [
+                572,
+                775,
+                593,
+                789
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                624,
+                777,
+                643,
+                788
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                643,
+                777,
+                651,
+                788
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                649,
+                777,
+                673,
+                789
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "+",
+            "box": [
+                247,
+                816,
+                262,
+                829
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Œ¾KHà",
+            "box": [
+                265,
+                815,
+                359,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                362,
+                816,
+                371,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                367,
+                816,
+                377,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "If",
+            "box": [
+                376,
+                816,
+                390,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "yes",
+            "box": [
+                392,
+                816,
+                418,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                418,
+                816,
+                422,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "how",
+            "box": [
+                429,
+                816,
+                462,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "long",
+            "box": [
+                467,
+                816,
+                501,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "did",
+            "box": [
+                507,
+                816,
+                530,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                536,
+                816,
+                564,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "stay",
+            "box": [
+                570,
+                816,
+                600,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                606,
+                816,
+                620,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "China",
+            "box": [
+                626,
+                816,
+                672,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "last",
+            "box": [
+                677,
+                816,
+                704,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "time",
+            "box": [
+                708,
+                817,
+                743,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                742,
+                817,
+                751,
+                830
+            ],
+            "label": "question"
+        },
+        {
+            "text": "一个月",
+            "box": [
+                209,
+                844,
+                254,
+                855
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "4.",
+            "box": [
+                107,
+                888,
+                122,
+                901
+            ],
+            "label": "other"
+        },
+        {
+            "text": "医疗",
+            "box": [
+                133,
+                888,
+                170,
+                901
+            ],
+            "label": "other"
+        },
+        {
+            "text": "信息",
+            "box": [
+                171,
+                888,
+                209,
+                901
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                209,
+                888,
+                217,
+                901
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Medical",
+            "box": [
+                216,
+                888,
+                278,
+                901
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Information",
+            "box": [
+                285,
+                888,
+                376,
+                901
+            ],
+            "label": "other"
+        }
+    ]
+}

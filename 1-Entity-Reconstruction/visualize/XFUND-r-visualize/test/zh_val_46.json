@@ -1,0 +1,1774 @@
+{
+    "form": [
+        {
+            "text": "姓名",
+            "box": [
+                35,
+                57,
+                75,
+                76
+            ],
+            "label": "question"
+        },
+        {
+            "text": "赵小琴",
+            "box": [
+                99,
+                61,
+                171,
+                82
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "性别",
+            "box": [
+                257,
+                60,
+                295,
+                73
+            ],
+            "label": "question"
+        },
+        {
+            "text": "女",
+            "box": [
+                333,
+                62,
+                358,
+                78
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "农历",
+            "box": [
+                404,
+                61,
+                441,
+                73
+            ],
+            "label": "question"
+        },
+        {
+            "text": "生日",
+            "box": [
+                443,
+                61,
+                479,
+                73
+            ],
+            "label": "question"
+        },
+        {
+            "text": "1997/5/18",
+            "box": [
+                528,
+                67,
+                613,
+                78
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "民族",
+            "box": [
+                699,
+                62,
+                738,
+                74
+            ],
+            "label": "question"
+        },
+        {
+            "text": "汉",
+            "box": [
+                785,
+                63,
+                808,
+                77
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Name",
+            "box": [
+                31,
+                80,
+                78,
+                89
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Gender",
+            "box": [
+                248,
+                79,
+                307,
+                89
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Birth",
+            "box": [
+                402,
+                80,
+                439,
+                90
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Date",
+            "box": [
+                446,
+                80,
+                482,
+                89
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Nationality",
+            "box": [
+                675,
+                81,
+                762,
+                93
+            ],
+            "label": "question"
+        },
+        {
+            "text": "政治",
+            "box": [
+                53,
+                105,
+                91,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "面貌",
+            "box": [
+                91,
+                105,
+                132,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "群众",
+            "box": [
+                187,
+                108,
+                231,
+                123
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "文化程度",
+            "box": [
+                329,
+                105,
+                407,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "本科",
+            "box": [
+                451,
+                112,
+                497,
+                128
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "技术",
+            "box": [
+                561,
+                105,
+                600,
+                118
+            ],
+            "label": "other"
+        },
+        {
+            "text": "职称",
+            "box": [
+                600,
+                105,
+                639,
+                119
+            ],
+            "label": "other"
+        },
+        {
+            "text": "照片",
+            "box": [
+                872,
+                102,
+                912,
+                116
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Political",
+            "box": [
+                32,
+                123,
+                98,
+                131
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Status",
+            "box": [
+                103,
+                123,
+                151,
+                131
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Education",
+            "box": [
+                329,
+                123,
+                408,
+                133
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Tech",
+            "box": [
+                552,
+                122,
+                590,
+                133
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                590,
+                123,
+                593,
+                133
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Quali",
+            "box": [
+                601,
+                123,
+                643,
+                135
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                643,
+                124,
+                647,
+                134
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Photo",
+            "box": [
+                872,
+                122,
+                915,
+                131
+            ],
+            "label": "other"
+        },
+        {
+            "text": "应聘",
+            "box": [
+                91,
+                144,
+                129,
+                157
+            ],
+            "label": "question"
+        },
+        {
+            "text": "职位",
+            "box": [
+                131,
+                144,
+                169,
+                157
+            ],
+            "label": "question"
+        },
+        {
+            "text": "柜员",
+            "box": [
+                258,
+                149,
+                302,
+                164
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "年齡",
+            "box": [
+                577,
+                144,
+                615,
+                157
+            ],
+            "label": "question"
+        },
+        {
+            "text": "23",
+            "box": [
+                673,
+                151,
+                695,
+                160
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Position",
+            "box": [
+                68,
+                162,
+                129,
+                172
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Desired",
+            "box": [
+                135,
+                162,
+                192,
+                172
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Age",
+            "box": [
+                579,
+                164,
+                612,
+                175
+            ],
+            "label": "question"
+        },
+        {
+            "text": "E",
+            "box": [
+                76,
+                182,
+                88,
+                194
+            ],
+            "label": "question"
+        },
+        {
+            "text": "-",
+            "box": [
+                90,
+                181,
+                106,
+                194
+            ],
+            "label": "question"
+        },
+        {
+            "text": "mail",
+            "box": [
+                108,
+                181,
+                142,
+                194
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地址",
+            "box": [
+                147,
+                181,
+                185,
+                194
+            ],
+            "label": "question"
+        },
+        {
+            "text": "zhaoxiaoqin@163.com",
+            "box": [
+                250,
+                191,
+                454,
+                204
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "E",
+            "box": [
+                72,
+                199,
+                84,
+                209
+            ],
+            "label": "question"
+        },
+        {
+            "text": "-",
+            "box": [
+                85,
+                199,
+                89,
+                209
+            ],
+            "label": "question"
+        },
+        {
+            "text": "mailAddress",
+            "box": [
+                90,
+                199,
+                189,
+                209
+            ],
+            "label": "question"
+        },
+        {
+            "text": "QQ",
+            "box": [
+                712,
+                193,
+                738,
+                202
+            ],
+            "label": "question"
+        },
+        {
+            "text": "985324675",
+            "box": [
+                799,
+                194,
+                891,
+                203
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "手机",
+            "box": [
+                55,
+                217,
+                93,
+                231
+            ],
+            "label": "question"
+        },
+        {
+            "text": "号码",
+            "box": [
+                95,
+                218,
+                133,
+                231
+            ],
+            "label": "question"
+        },
+        {
+            "text": "身份证",
+            "box": [
+                344,
+                218,
+                402,
+                232
+            ],
+            "label": "question"
+        },
+        {
+            "text": "号码",
+            "box": [
+                404,
+                218,
+                441,
+                232
+            ],
+            "label": "question"
+        },
+        {
+            "text": "婚姻",
+            "box": [
+                747,
+                220,
+                785,
+                233
+            ],
+            "label": "question"
+        },
+        {
+            "text": "状况",
+            "box": [
+                786,
+                220,
+                824,
+                233
+            ],
+            "label": "question"
+        },
+        {
+            "text": "未婚",
+            "box": [
+                875,
+                227,
+                920,
+                242
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Mobile",
+            "box": [
+                65,
+                238,
+                122,
+                247
+            ],
+            "label": "question"
+        },
+        {
+            "text": "19856242368",
+            "box": [
+                182,
+                231,
+                296,
+                240
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "ID",
+            "box": [
+                366,
+                238,
+                386,
+                247
+            ],
+            "label": "question"
+        },
+        {
+            "text": "No.",
+            "box": [
+                391,
+                238,
+                420,
+                247
+            ],
+            "label": "question"
+        },
+        {
+            "text": "110105199705187229",
+            "box": [
+                461,
+                228,
+                648,
+                238
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Marital",
+            "box": [
+                732,
+                238,
+                789,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "status",
+            "box": [
+                794,
+                240,
+                838,
+                249
+            ],
+            "label": "question"
+        },
+        {
+            "text": "电话",
+            "box": [
+                703,
+                256,
+                740,
+                269
+            ],
+            "label": "question"
+        },
+        {
+            "text": "19856242368",
+            "box": [
+                792,
+                264,
+                904,
+                273
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "联系",
+            "box": [
+                52,
+                272,
+                89,
+                286
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地址",
+            "box": [
+                91,
+                272,
+                130,
+                286
+            ],
+            "label": "question"
+        },
+        {
+            "text": "北京市",
+            "box": [
+                164,
+                267,
+                232,
+                283
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "海淀",
+            "box": [
+                234,
+                267,
+                279,
+                283
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "区",
+            "box": [
+                281,
+                267,
+                301,
+                283
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "西三旗",
+            "box": [
+                303,
+                267,
+                370,
+                283
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "建材",
+            "box": [
+                372,
+                267,
+                417,
+                283
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "城东路",
+            "box": [
+                418,
+                267,
+                486,
+                283
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "北侧",
+            "box": [
+                486,
+                267,
+                531,
+                283
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Tel.No.",
+            "box": [
+                691,
+                275,
+                749,
+                285
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Contact",
+            "box": [
+                28,
+                292,
+                89,
+                301
+            ],
+            "label": "question"
+        },
+        {
+            "text": "address",
+            "box": [
+                94,
+                292,
+                153,
+                301
+            ],
+            "label": "question"
+        },
+        {
+            "text": "邮编",
+            "box": [
+                701,
+                291,
+                740,
+                303
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Post",
+            "box": [
+                682,
+                309,
+                717,
+                319
+            ],
+            "label": "question"
+        },
+        {
+            "text": "code",
+            "box": [
+                720,
+                309,
+                758,
+                319
+            ],
+            "label": "question"
+        },
+        {
+            "text": "100096",
+            "box": [
+                786,
+                302,
+                846,
+                312
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "户籍",
+            "box": [
+                84,
+                334,
+                120,
+                347
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地址",
+            "box": [
+                122,
+                333,
+                159,
+                347
+            ],
+            "label": "question"
+        },
+        {
+            "text": "北京市",
+            "box": [
+                241,
+                331,
+                309,
+                348
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "海淀",
+            "box": [
+                311,
+                331,
+                356,
+                348
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "区",
+            "box": [
+                358,
+                331,
+                377,
+                348
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "西三旗",
+            "box": [
+                381,
+                331,
+                448,
+                348
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "建材",
+            "box": [
+                449,
+                332,
+                492,
+                348
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "城东路",
+            "box": [
+                495,
+                332,
+                563,
+                349
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "北侧",
+            "box": [
+                564,
+                332,
+                608,
+                348
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Domicile",
+            "box": [
+                63,
+                351,
+                125,
+                360
+            ],
+            "label": "question"
+        },
+        {
+            "text": "address",
+            "box": [
+                130,
+                351,
+                181,
+                360
+            ],
+            "label": "question"
+        },
+        {
+            "text": "外语",
+            "box": [
+                81,
+                378,
+                120,
+                391
+            ],
+            "label": "question"
+        },
+        {
+            "text": "水平",
+            "box": [
+                120,
+                378,
+                160,
+                391
+            ],
+            "label": "question"
+        },
+        {
+            "text": "计算机",
+            "box": [
+                406,
+                384,
+                464,
+                397
+            ],
+            "label": "question"
+        },
+        {
+            "text": "能力",
+            "box": [
+                465,
+                384,
+                501,
+                397
+            ],
+            "label": "question"
+        },
+        {
+            "text": "计算机",
+            "box": [
+                557,
+                385,
+                626,
+                401
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "二级",
+            "box": [
+                628,
+                385,
+                672,
+                401
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "期望",
+            "box": [
+                726,
+                378,
+                762,
+                391
+            ],
+            "label": "question"
+        },
+        {
+            "text": "工资",
+            "box": [
+                764,
+                378,
+                800,
+                390
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Foreign",
+            "box": [
+                59,
+                395,
+                110,
+                407
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Language",
+            "box": [
+                115,
+                395,
+                182,
+                407
+            ],
+            "label": "question"
+        },
+        {
+            "text": "CET6",
+            "box": [
+                239,
+                393,
+                292,
+                403
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Expected",
+            "box": [
+                729,
+                395,
+                797,
+                408
+            ],
+            "label": "question"
+        },
+        {
+            "text": "8000",
+            "box": [
+                832,
+                389,
+                873,
+                398
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Proficiency",
+            "box": [
+                81,
+                409,
+                158,
+                420
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Computer",
+            "box": [
+                388,
+                403,
+                466,
+                415
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Ability",
+            "box": [
+                467,
+                403,
+                520,
+                414
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Salary",
+            "box": [
+                739,
+                412,
+                786,
+                422
+            ],
+            "label": "question"
+        },
+        {
+            "text": "推荐",
+            "box": [
+                92,
+                428,
+                129,
+                441
+            ],
+            "label": "other"
+        },
+        {
+            "text": "人",
+            "box": [
+                132,
+                428,
+                149,
+                441
+            ],
+            "label": "other"
+        },
+        {
+            "text": "推荐",
+            "box": [
+                407,
+                428,
+                444,
+                441
+            ],
+            "label": "other"
+        },
+        {
+            "text": "人",
+            "box": [
+                447,
+                429,
+                462,
+                441
+            ],
+            "label": "other"
+        },
+        {
+            "text": "电话",
+            "box": [
+                467,
+                428,
+                503,
+                441
+            ],
+            "label": "other"
+        },
+        {
+            "text": "愿意",
+            "box": [
+                726,
+                430,
+                762,
+                442
+            ],
+            "label": "question"
+        },
+        {
+            "text": "工作",
+            "box": [
+                763,
+                430,
+                801,
+                442
+            ],
+            "label": "question"
+        },
+        {
+            "text": "5",
+            "box": [
+                827,
+                435,
+                839,
+                444
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Referrer",
+            "box": [
+                79,
+                447,
+                158,
+                457
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Referrer",
+            "box": [
+                385,
+                448,
+                464,
+                458
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Tel.No",
+            "box": [
+                469,
+                448,
+                523,
+                458
+            ],
+            "label": "other"
+        },
+        {
+            "text": "年限",
+            "box": [
+                720,
+                446,
+                760,
+                460
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Term",
+            "box": [
+                764,
+                447,
+                804,
+                460
+            ],
+            "label": "question"
+        },
+        {
+            "text": "履历",
+            "box": [
+                385,
+                472,
+                424,
+                486
+            ],
+            "label": "header"
+        },
+        {
+            "text": "(",
+            "box": [
+                435,
+                472,
+                442,
+                486
+            ],
+            "label": "header"
+        },
+        {
+            "text": "从",
+            "box": [
+                444,
+                472,
+                464,
+                486
+            ],
+            "label": "header"
+        },
+        {
+            "text": "高中",
+            "box": [
+                464,
+                472,
+                502,
+                486
+            ],
+            "label": "header"
+        },
+        {
+            "text": "开始",
+            "box": [
+                504,
+                472,
+                541,
+                486
+            ],
+            "label": "header"
+        },
+        {
+            "text": "填写",
+            "box": [
+                544,
+                472,
+                581,
+                486
+            ],
+            "label": "header"
+        },
+        {
+            "text": ")",
+            "box": [
+                584,
+                472,
+                591,
+                486
+            ],
+            "label": "header"
+        },
+        {
+            "text": "Experience",
+            "box": [
+                348,
+                491,
+                436,
+                503
+            ],
+            "label": "header"
+        },
+        {
+            "text": "(",
+            "box": [
+                438,
+                491,
+                443,
+                503
+            ],
+            "label": "header"
+        },
+        {
+            "text": "from",
+            "box": [
+                445,
+                491,
+                481,
+                503
+            ],
+            "label": "header"
+        },
+        {
+            "text": "senior",
+            "box": [
+                487,
+                491,
+                535,
+                503
+            ],
+            "label": "header"
+        },
+        {
+            "text": "high",
+            "box": [
+                539,
+                491,
+                573,
+                503
+            ],
+            "label": "header"
+        },
+        {
+            "text": "school",
+            "box": [
+                579,
+                491,
+                629,
+                503
+            ],
+            "label": "header"
+        },
+        {
+            "text": ")",
+            "box": [
+                629,
+                491,
+                636,
+                503
+            ],
+            "label": "header"
+        },
+        {
+            "text": "自",
+            "box": [
+                77,
+                511,
+                91,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "何",
+            "box": [
+                94,
+                511,
+                113,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "年月",
+            "box": [
+                114,
+                511,
+                160,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "至",
+            "box": [
+                164,
+                511,
+                183,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "何",
+            "box": [
+                183,
+                511,
+                202,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "年月",
+            "box": [
+                202,
+                511,
+                258,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "在",
+            "box": [
+                434,
+                512,
+                454,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "何",
+            "box": [
+                454,
+                512,
+                472,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "学校",
+            "box": [
+                475,
+                512,
+                512,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "(",
+            "box": [
+                524,
+                512,
+                530,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "单位",
+            "box": [
+                534,
+                512,
+                570,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": ")",
+            "box": [
+                575,
+                512,
+                581,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "学习",
+            "box": [
+                591,
+                512,
+                628,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "(",
+            "box": [
+                641,
+                512,
+                647,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "工作",
+            "box": [
+                651,
+                512,
+                688,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": ")",
+            "box": [
+                693,
+                512,
+                699,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "任何",
+            "box": [
+                855,
+                512,
+                891,
+                525
+            ],
+            "label": "question"
+        },
+        {
+            "text": "职务",
+            "box": [
+                894,
+                513,
+                929,
+                526
+            ],
+            "label": "question"
+        },
+        {
+            "text": "From",
+            "box": [
+                114,
+                531,
+                153,
+                540
+            ],
+            "label": "question"
+        },
+        {
+            "text": "o",
+            "box": [
+                206,
+                533,
+                222,
+                540
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Where",
+            "box": [
+                457,
+                530,
+                512,
+                541
+            ],
+            "label": "question"
+        },
+        {
+            "text": "used",
+            "box": [
+                515,
+                531,
+                551,
+                542
+            ],
+            "label": "question"
+        },
+        {
+            "text": "to",
+            "box": [
+                555,
+                531,
+                572,
+                542
+            ],
+            "label": "question"
+        },
+        {
+            "text": "work",
+            "box": [
+                576,
+                531,
+                617,
+                543
+            ],
+            "label": "question"
+        },
+        {
+            "text": "or",
+            "box": [
+                621,
+                532,
+                639,
+                543
+            ],
+            "label": "question"
+        },
+        {
+            "text": "study",
+            "box": [
+                641,
+                532,
+                686,
+                543
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Position",
+            "box": [
+                861,
+                532,
+                923,
+                541
+            ],
+            "label": "question"
+        },
+        {
+            "text": "2013.9-2016.6",
+            "box": [
+                50,
+                552,
+                176,
+                563
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "北京市",
+            "box": [
+                363,
+                555,
+                431,
+                571
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "第二十",
+            "box": [
+                433,
+                555,
+                501,
+                571
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "中学",
+            "box": [
+                502,
+                555,
+                547,
+                571
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "团",
+            "box": [
+                849,
+                554,
+                867,
+                569
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "支书",
+            "box": [
+                868,
+                554,
+                911,
+                570
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2016.9-2020.6",
+            "box": [
+                47,
+                588,
+                174,
+                598
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "北京",
+            "box": [
+                362,
+                582,
+                408,
+                598
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "理工",
+            "box": [
+                409,
+                582,
+                454,
+                598
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "大学",
+            "box": [
+                454,
+                582,
+                500,
+                598
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "班长",
+            "box": [
+                839,
+                587,
+                882,
+                602
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "备注",
+            "box": [
+                53,
+                879,
+                118,
+                892
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                122,
+                879,
+                127,
+                892
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Nbs",
+            "box": [
+                70,
+                900,
+                102,
+                909
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                103,
+                900,
+                109,
+                909
+            ],
+            "label": "other"
+        }
+    ]
+}

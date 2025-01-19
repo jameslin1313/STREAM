@@ -1,0 +1,5824 @@
+{
+    "form": [
+        {
+            "text": "*",
+            "box": [
+                72,
+                59,
+                79,
+                74
+            ],
+            "label": "header"
+        },
+        {
+            "text": "Residence",
+            "box": [
+                80,
+                59,
+                164,
+                75
+            ],
+            "label": "header"
+        },
+        {
+            "text": "for",
+            "box": [
+                168,
+                60,
+                193,
+                75
+            ],
+            "label": "header"
+        },
+        {
+            "text": "tax",
+            "box": [
+                198,
+                60,
+                222,
+                75
+            ],
+            "label": "header"
+        },
+        {
+            "text": "purposes",
+            "box": [
+                229,
+                60,
+                301,
+                75
+            ],
+            "label": "header"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                305,
+                60,
+                346,
+                76
+            ],
+            "label": "header"
+        },
+        {
+            "text": "地",
+            "box": [
+                348,
+                60,
+                366,
+                75
+            ],
+            "label": "header"
+        },
+        {
+            "text": "信息",
+            "box": [
+                367,
+                60,
+                404,
+                76
+            ],
+            "label": "header"
+        },
+        {
+            "text": "In",
+            "box": [
+                71,
+                89,
+                86,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "which",
+            "box": [
+                90,
+                89,
+                132,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "country",
+            "box": [
+                137,
+                89,
+                190,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                190,
+                89,
+                196,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "region",
+            "box": [
+                195,
+                89,
+                238,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "are",
+            "box": [
+                243,
+                89,
+                264,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                269,
+                89,
+                293,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "tax",
+            "box": [
+                298,
+                89,
+                318,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "resident",
+            "box": [
+                324,
+                89,
+                381,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                381,
+                89,
+                388,
+                99
+            ],
+            "label": "question"
+        },
+        {
+            "text": "中国",
+            "box": [
+                470,
+                92,
+                555,
+                105
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "您",
+            "box": [
+                71,
+                100,
+                86,
+                111
+            ],
+            "label": "question"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                87,
+                100,
+                119,
+                111
+            ],
+            "label": "question"
+        },
+        {
+            "text": "的",
+            "box": [
+                122,
+                100,
+                136,
+                111
+            ],
+            "label": "question"
+        },
+        {
+            "text": "国家",
+            "box": [
+                139,
+                100,
+                169,
+                111
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                169,
+                101,
+                176,
+                112
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地区",
+            "box": [
+                173,
+                101,
+                205,
+                112
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                208,
+                101,
+                211,
+                112
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Tax",
+            "box": [
+                71,
+                125,
+                96,
+                135
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                96,
+                125,
+                102,
+                135
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Social",
+            "box": [
+                102,
+                125,
+                144,
+                135
+            ],
+            "label": "question"
+        },
+        {
+            "text": "security",
+            "box": [
+                148,
+                125,
+                203,
+                136
+            ],
+            "label": "question"
+        },
+        {
+            "text": "number",
+            "box": [
+                207,
+                125,
+                261,
+                136
+            ],
+            "label": "question"
+        },
+        {
+            "text": "or",
+            "box": [
+                265,
+                126,
+                280,
+                136
+            ],
+            "label": "question"
+        },
+        {
+            "text": "other",
+            "box": [
+                284,
+                126,
+                320,
+                137
+            ],
+            "label": "question"
+        },
+        {
+            "text": "local",
+            "box": [
+                325,
+                126,
+                358,
+                137
+            ],
+            "label": "question"
+        },
+        {
+            "text": "equivalent",
+            "box": [
+                363,
+                126,
+                434,
+                137
+            ],
+            "label": "question"
+        },
+        {
+            "text": "税务",
+            "box": [
+                70,
+                137,
+                102,
+                149
+            ],
+            "label": "question"
+        },
+        {
+            "text": "代码",
+            "box": [
+                103,
+                137,
+                135,
+                149
+            ],
+            "label": "question"
+        },
+        {
+            "text": "或",
+            "box": [
+                137,
+                137,
+                151,
+                149
+            ],
+            "label": "question"
+        },
+        {
+            "text": "其它",
+            "box": [
+                151,
+                137,
+                184,
+                149
+            ],
+            "label": "question"
+        },
+        {
+            "text": "当地",
+            "box": [
+                186,
+                137,
+                216,
+                149
+            ],
+            "label": "question"
+        },
+        {
+            "text": "代码",
+            "box": [
+                218,
+                138,
+                249,
+                149
+            ],
+            "label": "question"
+        },
+        {
+            "text": "002487",
+            "box": [
+                463,
+                136,
+                527,
+                145
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "If",
+            "box": [
+                70,
+                157,
+                83,
+                167
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                85,
+                157,
+                110,
+                167
+            ],
+            "label": "other"
+        },
+        {
+            "text": "don't",
+            "box": [
+                115,
+                157,
+                152,
+                168
+            ],
+            "label": "other"
+        },
+        {
+            "text": "have",
+            "box": [
+                157,
+                158,
+                189,
+                168
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                193,
+                158,
+                214,
+                168
+            ],
+            "label": "other"
+        },
+        {
+            "text": "information",
+            "box": [
+                218,
+                158,
+                300,
+                168
+            ],
+            "label": "other"
+        },
+        {
+            "text": "above",
+            "box": [
+                305,
+                158,
+                344,
+                169
+            ],
+            "label": "other"
+        },
+        {
+            "text": "please",
+            "box": [
+                350,
+                158,
+                391,
+                169
+            ],
+            "label": "other"
+        },
+        {
+            "text": "state",
+            "box": [
+                396,
+                159,
+                427,
+                169
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                432,
+                159,
+                452,
+                169
+            ],
+            "label": "other"
+        },
+        {
+            "text": "reason",
+            "box": [
+                457,
+                159,
+                502,
+                169
+            ],
+            "label": "other"
+        },
+        {
+            "text": "如果",
+            "box": [
+                69,
+                170,
+                101,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "你",
+            "box": [
+                104,
+                170,
+                117,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "没有",
+            "box": [
+                119,
+                170,
+                151,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "上述",
+            "box": [
+                153,
+                170,
+                184,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                185,
+                170,
+                216,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "地",
+            "box": [
+                217,
+                170,
+                233,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "信息",
+            "box": [
+                233,
+                170,
+                263,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                266,
+                170,
+                269,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                281,
+                170,
+                297,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "阐释",
+            "box": [
+                298,
+                170,
+                329,
+                181
+            ],
+            "label": "other"
+        },
+        {
+            "text": "原因",
+            "box": [
+                331,
+                171,
+                362,
+                182
+            ],
+            "label": "other"
+        },
+        {
+            "text": "If",
+            "box": [
+                103,
+                187,
+                116,
+                197
+            ],
+            "label": "question"
+        },
+        {
+            "text": "\"",
+            "box": [
+                117,
+                187,
+                127,
+                197
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                127,
+                187,
+                152,
+                197
+            ],
+            "label": "question"
+        },
+        {
+            "text": "\"",
+            "box": [
+                152,
+                187,
+                161,
+                197
+            ],
+            "label": "question"
+        },
+        {
+            "text": "please",
+            "box": [
+                164,
+                187,
+                207,
+                198
+            ],
+            "label": "question"
+        },
+        {
+            "text": "list",
+            "box": [
+                211,
+                187,
+                231,
+                197
+            ],
+            "label": "question"
+        },
+        {
+            "text": "here",
+            "box": [
+                235,
+                188,
+                265,
+                198
+            ],
+            "label": "question"
+        },
+        {
+            "text": "and",
+            "box": [
+                270,
+                188,
+                295,
+                198
+            ],
+            "label": "question"
+        },
+        {
+            "text": "provide",
+            "box": [
+                300,
+                188,
+                353,
+                198
+            ],
+            "label": "question"
+        },
+        {
+            "text": "your",
+            "box": [
+                357,
+                188,
+                389,
+                198
+            ],
+            "label": "question"
+        },
+        {
+            "text": "tax",
+            "box": [
+                393,
+                188,
+                414,
+                198
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                415,
+                188,
+                420,
+                198
+            ],
+            "label": "question"
+        },
+        {
+            "text": "social",
+            "box": [
+                420,
+                188,
+                458,
+                199
+            ],
+            "label": "question"
+        },
+        {
+            "text": "security",
+            "box": [
+                461,
+                188,
+                516,
+                199
+            ],
+            "label": "question"
+        },
+        {
+            "text": "number",
+            "box": [
+                520,
+                189,
+                574,
+                199
+            ],
+            "label": "question"
+        },
+        {
+            "text": "or",
+            "box": [
+                579,
+                189,
+                593,
+                199
+            ],
+            "label": "question"
+        },
+        {
+            "text": "other",
+            "box": [
+                598,
+                189,
+                633,
+                200
+            ],
+            "label": "question"
+        },
+        {
+            "text": "local",
+            "box": [
+                638,
+                189,
+                670,
+                200
+            ],
+            "label": "question"
+        },
+        {
+            "text": "equivalent",
+            "box": [
+                674,
+                189,
+                744,
+                200
+            ],
+            "label": "question"
+        },
+        {
+            "text": ".",
+            "box": [
+                745,
+                190,
+                748,
+                200
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Are",
+            "box": [
+                69,
+                204,
+                96,
+                214
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                100,
+                204,
+                125,
+                214
+            ],
+            "label": "question"
+        },
+        {
+            "text": "tax",
+            "box": [
+                130,
+                204,
+                150,
+                214
+            ],
+            "label": "question"
+        },
+        {
+            "text": "resident",
+            "box": [
+                157,
+                204,
+                211,
+                214
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                215,
+                205,
+                228,
+                214
+            ],
+            "label": "question"
+        },
+        {
+            "text": "other",
+            "box": [
+                233,
+                205,
+                269,
+                214
+            ],
+            "label": "question"
+        },
+        {
+            "text": "countries",
+            "box": [
+                273,
+                205,
+                336,
+                215
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                337,
+                205,
+                342,
+                215
+            ],
+            "label": "question"
+        },
+        {
+            "text": "regions",
+            "box": [
+                342,
+                205,
+                392,
+                215
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                393,
+                206,
+                400,
+                215
+            ],
+            "label": "question"
+        },
+        {
+            "text": "☑Yes",
+            "box": [
+                481,
+                204,
+                531,
+                217
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "☑",
+            "box": [
+                483,
+                205,
+                496,
+                216
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                504,
+                205,
+                530,
+                216
+            ],
+            "label": "question"
+        },
+        {
+            "text": "□No",
+            "box": [
+                586,
+                207,
+                632,
+                219
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                610,
+                208,
+                630,
+                215
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                70,
+                217,
+                85,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "在",
+            "box": [
+                86,
+                217,
+                101,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "其它",
+            "box": [
+                102,
+                217,
+                134,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "国家",
+            "box": [
+                138,
+                217,
+                167,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                168,
+                217,
+                174,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地区",
+            "box": [
+                173,
+                217,
+                204,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                205,
+                217,
+                237,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "么",
+            "box": [
+                237,
+                218,
+                251,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                254,
+                218,
+                261,
+                228
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是",
+            "box": [
+                506,
+                219,
+                525,
+                230
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是",
+            "box": [
+                508,
+                218,
+                525,
+                230
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                612,
+                219,
+                630,
+                230
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                611,
+                220,
+                631,
+                230
+            ],
+            "label": "question"
+        },
+        {
+            "text": "如果",
+            "box": [
+                70,
+                236,
+                103,
+                247
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                104,
+                236,
+                119,
+                247
+            ],
+            "label": "question"
+        },
+        {
+            "text": "回答",
+            "box": [
+                122,
+                236,
+                152,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "“",
+            "box": [
+                161,
+                236,
+                167,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是",
+            "box": [
+                168,
+                236,
+                185,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "”",
+            "box": [
+                186,
+                236,
+                194,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                203,
+                236,
+                207,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "请",
+            "box": [
+                217,
+                236,
+                233,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                234,
+                236,
+                249,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "提供",
+            "box": [
+                249,
+                236,
+                281,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "详细",
+            "box": [
+                282,
+                236,
+                314,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "信息",
+            "box": [
+                314,
+                236,
+                346,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "和",
+            "box": [
+                347,
+                237,
+                363,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "税务",
+            "box": [
+                364,
+                237,
+                395,
+                248
+            ],
+            "label": "question"
+        },
+        {
+            "text": "代码",
+            "box": [
+                397,
+                237,
+                428,
+                249
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                429,
+                237,
+                435,
+                249
+            ],
+            "label": "question"
+        },
+        {
+            "text": "其它",
+            "box": [
+                433,
+                237,
+                464,
+                249
+            ],
+            "label": "question"
+        },
+        {
+            "text": "当地",
+            "box": [
+                466,
+                237,
+                496,
+                249
+            ],
+            "label": "question"
+        },
+        {
+            "text": "代码",
+            "box": [
+                497,
+                237,
+                529,
+                249
+            ],
+            "label": "question"
+        },
+        {
+            "text": "。",
+            "box": [
+                531,
+                238,
+                536,
+                249
+            ],
+            "label": "question"
+        },
+        {
+            "text": "The",
+            "box": [
+                70,
+                251,
+                97,
+                263
+            ],
+            "label": "other"
+        },
+        {
+            "text": "country",
+            "box": [
+                101,
+                251,
+                153,
+                263
+            ],
+            "label": "other"
+        },
+        {
+            "text": "or",
+            "box": [
+                157,
+                252,
+                171,
+                263
+            ],
+            "label": "other"
+        },
+        {
+            "text": "region",
+            "box": [
+                175,
+                252,
+                218,
+                263
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                220,
+                252,
+                246,
+                263
+            ],
+            "label": "other"
+        },
+        {
+            "text": "are",
+            "box": [
+                250,
+                252,
+                271,
+                263
+            ],
+            "label": "other"
+        },
+        {
+            "text": "a",
+            "box": [
+                276,
+                252,
+                283,
+                263
+            ],
+            "label": "other"
+        },
+        {
+            "text": "resident",
+            "box": [
+                288,
+                252,
+                341,
+                264
+            ],
+            "label": "other"
+        },
+        {
+            "text": "for",
+            "box": [
+                343,
+                253,
+                366,
+                264
+            ],
+            "label": "other"
+        },
+        {
+            "text": "tax",
+            "box": [
+                369,
+                253,
+                389,
+                264
+            ],
+            "label": "other"
+        },
+        {
+            "text": "is",
+            "box": [
+                394,
+                253,
+                404,
+                264
+            ],
+            "label": "other"
+        },
+        {
+            "text": "any",
+            "box": [
+                409,
+                253,
+                433,
+                264
+            ],
+            "label": "other"
+        },
+        {
+            "text": "place",
+            "box": [
+                436,
+                253,
+                470,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": "that",
+            "box": [
+                475,
+                253,
+                501,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                504,
+                253,
+                529,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": "may",
+            "box": [
+                533,
+                253,
+                562,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": "be",
+            "box": [
+                565,
+                254,
+                581,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": "subject",
+            "box": [
+                584,
+                254,
+                631,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": "to",
+            "box": [
+                634,
+                254,
+                647,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": "paying",
+            "box": [
+                650,
+                254,
+                696,
+                266
+            ],
+            "label": "other"
+        },
+        {
+            "text": "tax",
+            "box": [
+                699,
+                254,
+                720,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                719,
+                254,
+                722,
+                265
+            ],
+            "label": "other"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                69,
+                264,
+                102,
+                275
+            ],
+            "label": "other"
+        },
+        {
+            "text": "所在",
+            "box": [
+                103,
+                264,
+                135,
+                275
+            ],
+            "label": "other"
+        },
+        {
+            "text": "国",
+            "box": [
+                137,
+                264,
+                150,
+                275
+            ],
+            "label": "other"
+        },
+        {
+            "text": "指",
+            "box": [
+                154,
+                264,
+                168,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                170,
+                264,
+                184,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "需要",
+            "box": [
+                186,
+                264,
+                216,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "按照",
+            "box": [
+                218,
+                264,
+                248,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "当地",
+            "box": [
+                250,
+                265,
+                280,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "税法",
+            "box": [
+                281,
+                265,
+                313,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                313,
+                265,
+                345,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                349,
+                265,
+                362,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "国家",
+            "box": [
+                366,
+                265,
+                396,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                395,
+                265,
+                406,
+                277
+            ],
+            "label": "other"
+        },
+        {
+            "text": "地区",
+            "box": [
+                400,
+                265,
+                432,
+                277
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                434,
+                265,
+                438,
+                277
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Country",
+            "box": [
+                68,
+                288,
+                127,
+                302
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                125,
+                290,
+                133,
+                303
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Region",
+            "box": [
+                132,
+                290,
+                180,
+                304
+            ],
+            "label": "question"
+        },
+        {
+            "text": "英国",
+            "box": [
+                198,
+                292,
+                235,
+                306
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Tax",
+            "box": [
+                424,
+                292,
+                449,
+                300
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Identification",
+            "box": [
+                454,
+                291,
+                546,
+                300
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Number",
+            "box": [
+                550,
+                292,
+                608,
+                300
+            ],
+            "label": "question"
+        },
+        {
+            "text": "国家",
+            "box": [
+                69,
+                303,
+                101,
+                313
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                100,
+                303,
+                106,
+                313
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地区",
+            "box": [
+                105,
+                303,
+                138,
+                313
+            ],
+            "label": "question"
+        },
+        {
+            "text": "(",
+            "box": [
+                497,
+                306,
+                503,
+                316
+            ],
+            "label": "question"
+        },
+        {
+            "text": "or",
+            "box": [
+                504,
+                306,
+                518,
+                316
+            ],
+            "label": "question"
+        },
+        {
+            "text": "equivalent",
+            "box": [
+                522,
+                306,
+                594,
+                317
+            ],
+            "label": "question"
+        },
+        {
+            "text": ")",
+            "box": [
+                594,
+                307,
+                599,
+                317
+            ],
+            "label": "question"
+        },
+        {
+            "text": "BAW",
+            "box": [
+                618,
+                300,
+                659,
+                309
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "法国",
+            "box": [
+                194,
+                318,
+                232,
+                332
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "税务",
+            "box": [
+                424,
+                317,
+                455,
+                330
+            ],
+            "label": "question"
+        },
+        {
+            "text": "代码",
+            "box": [
+                456,
+                318,
+                488,
+                330
+            ],
+            "label": "question"
+        },
+        {
+            "text": "或",
+            "box": [
+                489,
+                318,
+                504,
+                330
+            ],
+            "label": "question"
+        },
+        {
+            "text": "其它",
+            "box": [
+                504,
+                319,
+                536,
+                331
+            ],
+            "label": "question"
+        },
+        {
+            "text": "当地",
+            "box": [
+                537,
+                319,
+                569,
+                332
+            ],
+            "label": "question"
+        },
+        {
+            "text": "代码",
+            "box": [
+                569,
+                320,
+                602,
+                332
+            ],
+            "label": "question"
+        },
+        {
+            "text": "CFR",
+            "box": [
+                619,
+                321,
+                658,
+                333
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "If",
+            "box": [
+                66,
+                402,
+                80,
+                413
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                82,
+                402,
+                107,
+                413
+            ],
+            "label": "other"
+        },
+        {
+            "text": "have",
+            "box": [
+                112,
+                402,
+                145,
+                413
+            ],
+            "label": "other"
+        },
+        {
+            "text": "more",
+            "box": [
+                149,
+                402,
+                185,
+                413
+            ],
+            "label": "other"
+        },
+        {
+            "text": "than",
+            "box": [
+                189,
+                402,
+                219,
+                413
+            ],
+            "label": "other"
+        },
+        {
+            "text": "three",
+            "box": [
+                224,
+                402,
+                259,
+                413
+            ],
+            "label": "other"
+        },
+        {
+            "text": "countries",
+            "box": [
+                264,
+                402,
+                327,
+                414
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                327,
+                403,
+                332,
+                413
+            ],
+            "label": "other"
+        },
+        {
+            "text": "regions",
+            "box": [
+                332,
+                403,
+                382,
+                414
+            ],
+            "label": "other"
+        },
+        {
+            "text": "or",
+            "box": [
+                387,
+                403,
+                402,
+                414
+            ],
+            "label": "other"
+        },
+        {
+            "text": "tax",
+            "box": [
+                406,
+                403,
+                427,
+                414
+            ],
+            "label": "other"
+        },
+        {
+            "text": "identification",
+            "box": [
+                432,
+                403,
+                522,
+                414
+            ],
+            "label": "other"
+        },
+        {
+            "text": "numbers",
+            "box": [
+                527,
+                403,
+                587,
+                415
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                587,
+                403,
+                591,
+                414
+            ],
+            "label": "other"
+        },
+        {
+            "text": "please",
+            "box": [
+                596,
+                403,
+                637,
+                415
+            ],
+            "label": "other"
+        },
+        {
+            "text": "use",
+            "box": [
+                642,
+                404,
+                664,
+                415
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                668,
+                404,
+                689,
+                415
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Additional",
+            "box": [
+                693,
+                404,
+                766,
+                415
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Residence",
+            "box": [
+                770,
+                404,
+                839,
+                415
+            ],
+            "label": "other"
+        },
+        {
+            "text": "for",
+            "box": [
+                843,
+                404,
+                864,
+                415
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Tax",
+            "box": [
+                868,
+                405,
+                892,
+                415
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Purposes",
+            "box": [
+                66,
+                415,
+                129,
+                426
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Form",
+            "box": [
+                135,
+                414,
+                172,
+                425
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                173,
+                414,
+                176,
+                424
+            ],
+            "label": "other"
+        },
+        {
+            "text": "如果",
+            "box": [
+                66,
+                427,
+                98,
+                438
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                100,
+                427,
+                114,
+                438
+            ],
+            "label": "other"
+        },
+        {
+            "text": "有",
+            "box": [
+                115,
+                427,
+                131,
+                438
+            ],
+            "label": "other"
+        },
+        {
+            "text": "3",
+            "box": [
+                137,
+                427,
+                143,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "个",
+            "box": [
+                148,
+                427,
+                164,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "以上",
+            "box": [
+                167,
+                427,
+                196,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                197,
+                427,
+                212,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                212,
+                428,
+                244,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "所在",
+            "box": [
+                245,
+                428,
+                276,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "国家",
+            "box": [
+                279,
+                428,
+                308,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                308,
+                428,
+                315,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "地区",
+            "box": [
+                314,
+                428,
+                345,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "和",
+            "box": [
+                348,
+                428,
+                363,
+                439
+            ],
+            "label": "other"
+        },
+        {
+            "text": "税务",
+            "box": [
+                364,
+                428,
+                394,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "代码",
+            "box": [
+                397,
+                428,
+                428,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                430,
+                429,
+                433,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                444,
+                429,
+                460,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "填写",
+            "box": [
+                461,
+                429,
+                491,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                492,
+                429,
+                524,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "地",
+            "box": [
+                526,
+                429,
+                540,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "信息",
+            "box": [
+                542,
+                429,
+                572,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "附表",
+            "box": [
+                575,
+                429,
+                606,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                608,
+                429,
+                612,
+                440
+            ],
+            "label": "other"
+        },
+        {
+            "text": "If",
+            "box": [
+                66,
+                451,
+                81,
+                462
+            ],
+            "label": "question"
+        },
+        {
+            "text": "a",
+            "box": [
+                86,
+                451,
+                95,
+                462
+            ],
+            "label": "question"
+        },
+        {
+            "text": "TIN",
+            "box": [
+                98,
+                451,
+                126,
+                462
+            ],
+            "label": "question"
+        },
+        {
+            "text": "is",
+            "box": [
+                131,
+                451,
+                142,
+                462
+            ],
+            "label": "question"
+        },
+        {
+            "text": "unavailable",
+            "box": [
+                147,
+                451,
+                226,
+                462
+            ],
+            "label": "question"
+        },
+        {
+            "text": "please",
+            "box": [
+                230,
+                452,
+                272,
+                462
+            ],
+            "label": "question"
+        },
+        {
+            "text": "provide",
+            "box": [
+                276,
+                452,
+                329,
+                463
+            ],
+            "label": "question"
+        },
+        {
+            "text": "the",
+            "box": [
+                333,
+                452,
+                355,
+                463
+            ],
+            "label": "question"
+        },
+        {
+            "text": "appropriate",
+            "box": [
+                360,
+                452,
+                441,
+                463
+            ],
+            "label": "question"
+        },
+        {
+            "text": "reason",
+            "box": [
+                447,
+                453,
+                491,
+                464
+            ],
+            "label": "question"
+        },
+        {
+            "text": "A",
+            "box": [
+                494,
+                453,
+                505,
+                463
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                506,
+                453,
+                510,
+                463
+            ],
+            "label": "question"
+        },
+        {
+            "text": "B",
+            "box": [
+                515,
+                453,
+                525,
+                463
+            ],
+            "label": "question"
+        },
+        {
+            "text": "or",
+            "box": [
+                530,
+                453,
+                544,
+                464
+            ],
+            "label": "question"
+        },
+        {
+            "text": "C",
+            "box": [
+                549,
+                453,
+                559,
+                464
+            ],
+            "label": "question"
+        },
+        {
+            "text": "where",
+            "box": [
+                565,
+                453,
+                606,
+                464
+            ],
+            "label": "question"
+        },
+        {
+            "text": "indicated",
+            "box": [
+                610,
+                453,
+                673,
+                464
+            ],
+            "label": "question"
+        },
+        {
+            "text": "below",
+            "box": [
+                678,
+                454,
+                717,
+                464
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                718,
+                454,
+                722,
+                464
+            ],
+            "label": "question"
+        },
+        {
+            "text": "如果",
+            "box": [
+                66,
+                463,
+                97,
+                475
+            ],
+            "label": "question"
+        },
+        {
+            "text": "无法",
+            "box": [
+                98,
+                463,
+                131,
+                475
+            ],
+            "label": "question"
+        },
+        {
+            "text": "提供",
+            "box": [
+                131,
+                463,
+                164,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "税务",
+            "box": [
+                164,
+                464,
+                196,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "代码",
+            "box": [
+                197,
+                464,
+                228,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                230,
+                464,
+                234,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "请",
+            "box": [
+                245,
+                464,
+                261,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "在",
+            "box": [
+                261,
+                464,
+                276,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "A",
+            "box": [
+                281,
+                464,
+                293,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "、",
+            "box": [
+                294,
+                464,
+                298,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "B",
+            "box": [
+                310,
+                464,
+                319,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "和",
+            "box": [
+                323,
+                464,
+                339,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "C",
+            "box": [
+                345,
+                464,
+                356,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "三个",
+            "box": [
+                360,
+                464,
+                391,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "选项",
+            "box": [
+                392,
+                464,
+                424,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "中",
+            "box": [
+                426,
+                464,
+                439,
+                476
+            ],
+            "label": "question"
+        },
+        {
+            "text": "选择",
+            "box": [
+                441,
+                464,
+                472,
+                477
+            ],
+            "label": "question"
+        },
+        {
+            "text": "原因",
+            "box": [
+                473,
+                465,
+                503,
+                477
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                507,
+                465,
+                509,
+                477
+            ],
+            "label": "question"
+        },
+        {
+            "text": "☐",
+            "box": [
+                67,
+                486,
+                81,
+                498
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "A",
+            "box": [
+                93,
+                486,
+                105,
+                498
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "-",
+            "box": [
+                109,
+                486,
+                118,
+                498
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "The",
+            "box": [
+                122,
+                486,
+                149,
+                498
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "country",
+            "box": [
+                154,
+                486,
+                207,
+                498
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "region",
+            "box": [
+                212,
+                486,
+                255,
+                499
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                207,
+                487,
+                213,
+                498
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "where",
+            "box": [
+                259,
+                487,
+                301,
+                499
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "the",
+            "box": [
+                305,
+                487,
+                327,
+                499
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Account",
+            "box": [
+                331,
+                487,
+                389,
+                499
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Holder",
+            "box": [
+                393,
+                487,
+                441,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "is",
+            "box": [
+                445,
+                488,
+                456,
+                499
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "liable",
+            "box": [
+                460,
+                488,
+                497,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "to",
+            "box": [
+                501,
+                488,
+                514,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "pay",
+            "box": [
+                519,
+                488,
+                544,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "tax",
+            "box": [
+                548,
+                488,
+                569,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "does",
+            "box": [
+                574,
+                488,
+                603,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "not",
+            "box": [
+                608,
+                488,
+                630,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "issue",
+            "box": [
+                635,
+                488,
+                667,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "TINs",
+            "box": [
+                672,
+                488,
+                706,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "to",
+            "box": [
+                710,
+                489,
+                722,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "its",
+            "box": [
+                727,
+                489,
+                742,
+                500
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "residents",
+            "box": [
+                747,
+                489,
+                809,
+                501
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ".",
+            "box": [
+                808,
+                489,
+                812,
+                501
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "账户",
+            "box": [
+                94,
+                500,
+                125,
+                511
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "申请",
+            "box": [
+                129,
+                500,
+                160,
+                511
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "者",
+            "box": [
+                159,
+                500,
+                175,
+                511
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "的",
+            "box": [
+                177,
+                500,
+                191,
+                511
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "所在",
+            "box": [
+                192,
+                500,
+                223,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "国",
+            "box": [
+                226,
+                500,
+                239,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "或",
+            "box": [
+                240,
+                500,
+                256,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "地区",
+            "box": [
+                256,
+                500,
+                287,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "无",
+            "box": [
+                288,
+                500,
+                304,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "义务",
+            "box": [
+                304,
+                500,
+                336,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "告知",
+            "box": [
+                337,
+                500,
+                370,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "税务",
+            "box": [
+                370,
+                501,
+                402,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "代码",
+            "box": [
+                403,
+                501,
+                435,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "。",
+            "box": [
+                437,
+                501,
+                441,
+                512
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "B",
+            "box": [
+                93,
+                522,
+                104,
+                533
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "-",
+            "box": [
+                107,
+                522,
+                116,
+                533
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "The",
+            "box": [
+                121,
+                522,
+                149,
+                533
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Account",
+            "box": [
+                152,
+                522,
+                210,
+                533
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Holder",
+            "box": [
+                214,
+                523,
+                261,
+                534
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "is",
+            "box": [
+                266,
+                523,
+                275,
+                534
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "otherwise",
+            "box": [
+                280,
+                523,
+                347,
+                534
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "unable",
+            "box": [
+                352,
+                524,
+                398,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "to",
+            "box": [
+                402,
+                524,
+                415,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "obtain",
+            "box": [
+                420,
+                524,
+                463,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "a",
+            "box": [
+                468,
+                525,
+                475,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "TIN",
+            "box": [
+                480,
+                525,
+                508,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "or",
+            "box": [
+                512,
+                525,
+                527,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Equivalent",
+            "box": [
+                531,
+                525,
+                606,
+                536
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "number",
+            "box": [
+                611,
+                525,
+                665,
+                536
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "(",
+            "box": [
+                669,
+                526,
+                675,
+                536
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Please",
+            "box": [
+                674,
+                526,
+                717,
+                537
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "explain",
+            "box": [
+                721,
+                526,
+                770,
+                537
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "why",
+            "box": [
+                775,
+                526,
+                803,
+                537
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "you",
+            "box": [
+                807,
+                527,
+                832,
+                537
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "are",
+            "box": [
+                837,
+                527,
+                859,
+                537
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "unable",
+            "box": [
+                863,
+                527,
+                906,
+                538
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "to",
+            "box": [
+                910,
+                527,
+                925,
+                538
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "obtain",
+            "box": [
+                123,
+                537,
+                166,
+                547
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "a",
+            "box": [
+                172,
+                537,
+                179,
+                547
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "TIN",
+            "box": [
+                185,
+                537,
+                211,
+                547
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "in",
+            "box": [
+                216,
+                537,
+                229,
+                547
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "the",
+            "box": [
+                233,
+                537,
+                254,
+                547
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "below",
+            "box": [
+                258,
+                537,
+                298,
+                547
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "table",
+            "box": [
+                302,
+                538,
+                336,
+                548
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "if",
+            "box": [
+                341,
+                538,
+                353,
+                547
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "you",
+            "box": [
+                356,
+                538,
+                381,
+                548
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "have",
+            "box": [
+                385,
+                538,
+                417,
+                548
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "selected",
+            "box": [
+                422,
+                538,
+                473,
+                548
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "this",
+            "box": [
+                479,
+                539,
+                503,
+                548
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "reason",
+            "box": [
+                507,
+                539,
+                553,
+                549
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ")",
+            "box": [
+                552,
+                539,
+                559,
+                549
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "账户",
+            "box": [
+                122,
+                549,
+                153,
+                561
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "持有者",
+            "box": [
+                154,
+                549,
+                203,
+                561
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "无法",
+            "box": [
+                203,
+                549,
+                235,
+                561
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "获取",
+            "box": [
+                236,
+                549,
+                267,
+                561
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "税务",
+            "box": [
+                267,
+                549,
+                299,
+                561
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "代码",
+            "box": [
+                300,
+                549,
+                332,
+                561
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "或",
+            "box": [
+                333,
+                550,
+                348,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "其他",
+            "box": [
+                350,
+                550,
+                381,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "当地",
+            "box": [
+                383,
+                550,
+                414,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "代码",
+            "box": [
+                414,
+                550,
+                447,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "(",
+            "box": [
+                454,
+                550,
+                461,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "如果",
+            "box": [
+                462,
+                550,
+                494,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "您",
+            "box": [
+                495,
+                550,
+                510,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "勾选",
+            "box": [
+                511,
+                551,
+                543,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "该",
+            "box": [
+                544,
+                551,
+                560,
+                562
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "选项",
+            "box": [
+                560,
+                551,
+                592,
+                563
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "请",
+            "box": [
+                592,
+                551,
+                608,
+                563
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "在",
+            "box": [
+                608,
+                551,
+                624,
+                563
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "下方",
+            "box": [
+                625,
+                551,
+                656,
+                563
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "填写",
+            "box": [
+                657,
+                551,
+                688,
+                563
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "无法",
+            "box": [
+                689,
+                551,
+                720,
+                563
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "获取",
+            "box": [
+                721,
+                551,
+                752,
+                563
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "代码",
+            "box": [
+                753,
+                551,
+                785,
+                564
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "的",
+            "box": [
+                787,
+                552,
+                801,
+                564
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "原因",
+            "box": [
+                802,
+                552,
+                833,
+                564
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "。",
+            "box": [
+                836,
+                552,
+                840,
+                564
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ")",
+            "box": [
+                852,
+                552,
+                859,
+                564
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "1",
+            "box": [
+                64,
+                575,
+                72,
+                581
+            ],
+            "label": "other"
+        },
+        {
+            "text": "2",
+            "box": [
+                63,
+                596,
+                72,
+                602
+            ],
+            "label": "other"
+        },
+        {
+            "text": "3",
+            "box": [
+                63,
+                618,
+                71,
+                624
+            ],
+            "label": "other"
+        },
+        {
+            "text": "☐",
+            "box": [
+                64,
+                649,
+                78,
+                662
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "C",
+            "box": [
+                91,
+                649,
+                102,
+                662
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "-",
+            "box": [
+                106,
+                649,
+                114,
+                662
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                119,
+                649,
+                139,
+                662
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "TIN",
+            "box": [
+                144,
+                649,
+                170,
+                662
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "is",
+            "box": [
+                177,
+                649,
+                187,
+                662
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "required",
+            "box": [
+                192,
+                649,
+                250,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ".",
+            "box": [
+                250,
+                650,
+                254,
+                662
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "(",
+            "box": [
+                259,
+                650,
+                265,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Noted",
+            "box": [
+                264,
+                650,
+                304,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ":",
+            "box": [
+                305,
+                650,
+                310,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Only",
+            "box": [
+                315,
+                650,
+                350,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "select",
+            "box": [
+                354,
+                650,
+                391,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "this",
+            "box": [
+                395,
+                651,
+                420,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "reason",
+            "box": [
+                425,
+                651,
+                469,
+                664
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "if",
+            "box": [
+                474,
+                651,
+                485,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "the",
+            "box": [
+                487,
+                651,
+                509,
+                663
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "authorities",
+            "box": [
+                514,
+                651,
+                587,
+                664
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "of",
+            "box": [
+                592,
+                651,
+                607,
+                664
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "the",
+            "box": [
+                609,
+                651,
+                631,
+                664
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "country",
+            "box": [
+                635,
+                651,
+                687,
+                665
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                687,
+                652,
+                694,
+                664
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "region",
+            "box": [
+                693,
+                652,
+                736,
+                665
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "of",
+            "box": [
+                740,
+                652,
+                755,
+                665
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "tax",
+            "box": [
+                758,
+                652,
+                779,
+                665
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "residence",
+            "box": [
+                783,
+                652,
+                848,
+                665
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "entered",
+            "box": [
+                852,
+                652,
+                901,
+                665
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "below",
+            "box": [
+                120,
+                665,
+                160,
+                675
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "do",
+            "box": [
+                165,
+                665,
+                182,
+                675
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "not",
+            "box": [
+                187,
+                665,
+                209,
+                675
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "require",
+            "box": [
+                213,
+                665,
+                262,
+                676
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "the",
+            "box": [
+                267,
+                665,
+                288,
+                675
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "TIN",
+            "box": [
+                293,
+                666,
+                321,
+                676
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "to",
+            "box": [
+                325,
+                666,
+                339,
+                676
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "be",
+            "box": [
+                343,
+                666,
+                360,
+                676
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "disclosed",
+            "box": [
+                364,
+                666,
+                425,
+                676
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ")",
+            "box": [
+                425,
+                666,
+                431,
+                676
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "不需要",
+            "box": [
+                120,
+                677,
+                168,
+                688
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "税务",
+            "box": [
+                169,
+                677,
+                200,
+                688
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "代码",
+            "box": [
+                202,
+                677,
+                233,
+                688
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "。",
+            "box": [
+                235,
+                677,
+                239,
+                688
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "(",
+            "box": [
+                262,
+                677,
+                268,
+                689
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "该",
+            "box": [
+                269,
+                677,
+                285,
+                689
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "选项",
+            "box": [
+                285,
+                677,
+                318,
+                689
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "仅限",
+            "box": [
+                317,
+                678,
+                351,
+                689
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "于",
+            "box": [
+                351,
+                678,
+                367,
+                689
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "下方",
+            "box": [
+                368,
+                678,
+                400,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "所示",
+            "box": [
+                400,
+                678,
+                432,
+                689
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "税务",
+            "box": [
+                432,
+                678,
+                464,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "所在",
+            "box": [
+                464,
+                678,
+                496,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "国家",
+            "box": [
+                499,
+                678,
+                529,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                529,
+                679,
+                535,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "地区",
+            "box": [
+                534,
+                679,
+                565,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "不",
+            "box": [
+                567,
+                679,
+                582,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "要求",
+            "box": [
+                583,
+                679,
+                614,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "披露",
+            "box": [
+                616,
+                679,
+                647,
+                690
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "税务",
+            "box": [
+                647,
+                679,
+                679,
+                691
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "代码",
+            "box": [
+                680,
+                679,
+                712,
+                691
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ")",
+            "box": [
+                713,
+                679,
+                719,
+                691
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Country",
+            "box": [
+                85,
+                707,
+                140,
+                717
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                139,
+                707,
+                147,
+                717
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Region",
+            "box": [
+                147,
+                707,
+                193,
+                717
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                197,
+                707,
+                212,
+                717
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Tax",
+            "box": [
+                214,
+                707,
+                237,
+                717
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Residence",
+            "box": [
+                241,
+                707,
+                308,
+                717
+            ],
+            "label": "other"
+        },
+        {
+            "text": "TIN",
+            "box": [
+                420,
+                709,
+                441,
+                717
+            ],
+            "label": "other"
+        },
+        {
+            "text": "If",
+            "box": [
+                596,
+                709,
+                606,
+                718
+            ],
+            "label": "other"
+        },
+        {
+            "text": "no",
+            "box": [
+                609,
+                709,
+                626,
+                718
+            ],
+            "label": "other"
+        },
+        {
+            "text": "TIN",
+            "box": [
+                630,
+                709,
+                651,
+                718
+            ],
+            "label": "other"
+        },
+        {
+            "text": "available",
+            "box": [
+                656,
+                709,
+                716,
+                718
+            ],
+            "label": "other"
+        },
+        {
+            "text": "enter",
+            "box": [
+                719,
+                710,
+                756,
+                719
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Reason",
+            "box": [
+                759,
+                710,
+                808,
+                719
+            ],
+            "label": "other"
+        },
+        {
+            "text": "A",
+            "box": [
+                811,
+                710,
+                821,
+                719
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                820,
+                710,
+                826,
+                719
+            ],
+            "label": "other"
+        },
+        {
+            "text": "B",
+            "box": [
+                830,
+                711,
+                839,
+                719
+            ],
+            "label": "other"
+        },
+        {
+            "text": "or",
+            "box": [
+                842,
+                711,
+                858,
+                719
+            ],
+            "label": "other"
+        },
+        {
+            "text": "C",
+            "box": [
+                860,
+                711,
+                869,
+                719
+            ],
+            "label": "other"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                128,
+                720,
+                162,
+                731
+            ],
+            "label": "other"
+        },
+        {
+            "text": "所在",
+            "box": [
+                162,
+                720,
+                194,
+                731
+            ],
+            "label": "other"
+        },
+        {
+            "text": "国家",
+            "box": [
+                195,
+                720,
+                226,
+                731
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                227,
+                720,
+                233,
+                731
+            ],
+            "label": "other"
+        },
+        {
+            "text": "地区",
+            "box": [
+                233,
+                720,
+                264,
+                731
+            ],
+            "label": "other"
+        },
+        {
+            "text": "税务",
+            "box": [
+                399,
+                721,
+                430,
+                732
+            ],
+            "label": "other"
+        },
+        {
+            "text": "代码",
+            "box": [
+                432,
+                721,
+                463,
+                732
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                635,
+                722,
+                651,
+                734
+            ],
+            "label": "other"
+        },
+        {
+            "text": "解释",
+            "box": [
+                651,
+                722,
+                683,
+                734
+            ],
+            "label": "other"
+        },
+        {
+            "text": "没有",
+            "box": [
+                684,
+                722,
+                715,
+                734
+            ],
+            "label": "other"
+        },
+        {
+            "text": "税务",
+            "box": [
+                716,
+                723,
+                746,
+                734
+            ],
+            "label": "other"
+        },
+        {
+            "text": "代码",
+            "box": [
+                747,
+                723,
+                780,
+                734
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                781,
+                723,
+                796,
+                734
+            ],
+            "label": "other"
+        },
+        {
+            "text": "原因",
+            "box": [
+                796,
+                723,
+                828,
+                735
+            ],
+            "label": "other"
+        },
+        {
+            "text": "1",
+            "box": [
+                62,
+                737,
+                69,
+                744
+            ],
+            "label": "other"
+        },
+        {
+            "text": "2",
+            "box": [
+                61,
+                759,
+                68,
+                765
+            ],
+            "label": "other"
+        },
+        {
+            "text": "3",
+            "box": [
+                60,
+                781,
+                69,
+                787
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Are",
+            "box": [
+                59,
+                811,
+                87,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                90,
+                811,
+                115,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "tax",
+            "box": [
+                120,
+                811,
+                141,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "resident",
+            "box": [
+                146,
+                811,
+                201,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                206,
+                811,
+                218,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "countries",
+            "box": [
+                222,
+                811,
+                285,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                285,
+                811,
+                292,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "regions",
+            "box": [
+                291,
+                811,
+                341,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "other",
+            "box": [
+                345,
+                811,
+                383,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "than",
+            "box": [
+                387,
+                811,
+                418,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "those",
+            "box": [
+                423,
+                811,
+                458,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "refered",
+            "box": [
+                462,
+                811,
+                512,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "above",
+            "box": [
+                516,
+                811,
+                557,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                557,
+                811,
+                565,
+                821
+            ],
+            "label": "question"
+        },
+        {
+            "text": "□",
+            "box": [
+                592,
+                814,
+                616,
+                828
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                626,
+                813,
+                651,
+                821
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "边",
+            "box": [
+                700,
+                815,
+                716,
+                828
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                730,
+                814,
+                750,
+                821
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "您",
+            "box": [
+                60,
+                823,
+                75,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是否",
+            "box": [
+                76,
+                823,
+                108,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "在",
+            "box": [
+                109,
+                823,
+                125,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "上述",
+            "box": [
+                126,
+                823,
+                158,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "国家",
+            "box": [
+                160,
+                823,
+                190,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                191,
+                823,
+                197,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地区",
+            "box": [
+                195,
+                823,
+                225,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "之外",
+            "box": [
+                227,
+                823,
+                258,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "的",
+            "box": [
+                260,
+                823,
+                275,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "地方",
+            "box": [
+                275,
+                823,
+                307,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "居住",
+            "box": [
+                308,
+                823,
+                340,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "/",
+            "box": [
+                339,
+                823,
+                345,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "纳税",
+            "box": [
+                345,
+                823,
+                378,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                380,
+                823,
+                387,
+                835
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是",
+            "box": [
+                627,
+                825,
+                644,
+                836
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                732,
+                826,
+                750,
+                837
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "If",
+            "box": [
+                60,
+                848,
+                73,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "“",
+            "box": [
+                77,
+                848,
+                83,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                84,
+                848,
+                108,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "”",
+            "box": [
+                110,
+                848,
+                116,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                117,
+                848,
+                120,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "are",
+            "box": [
+                126,
+                848,
+                147,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                152,
+                848,
+                176,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "a",
+            "box": [
+                182,
+                848,
+                189,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "tax",
+            "box": [
+                194,
+                848,
+                214,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "resident",
+            "box": [
+                220,
+                848,
+                273,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                278,
+                848,
+                290,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "USA",
+            "box": [
+                296,
+                848,
+                327,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                329,
+                848,
+                334,
+                858
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                485,
+                850,
+                510,
+                858
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "☑No",
+            "box": [
+                571,
+                850,
+                612,
+                864
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "如果",
+            "box": [
+                60,
+                860,
+                92,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                93,
+                860,
+                107,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "的",
+            "box": [
+                110,
+                860,
+                125,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "回答",
+            "box": [
+                127,
+                860,
+                158,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "为",
+            "box": [
+                158,
+                861,
+                173,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "“",
+            "box": [
+                182,
+                861,
+                189,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是",
+            "box": [
+                189,
+                861,
+                206,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "”",
+            "box": [
+                208,
+                861,
+                215,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                224,
+                861,
+                227,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "请问",
+            "box": [
+                238,
+                861,
+                269,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                270,
+                861,
+                285,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "在",
+            "box": [
+                287,
+                861,
+                302,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "美国",
+            "box": [
+                304,
+                861,
+                334,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "纳税",
+            "box": [
+                336,
+                861,
+                368,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "么",
+            "box": [
+                369,
+                861,
+                382,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                387,
+                861,
+                393,
+                872
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是",
+            "box": [
+                485,
+                862,
+                502,
+                873
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                591,
+                863,
+                609,
+                874
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "If",
+            "box": [
+                60,
+                889,
+                72,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "“",
+            "box": [
+                76,
+                889,
+                82,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                83,
+                889,
+                107,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "”",
+            "box": [
+                108,
+                889,
+                115,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                116,
+                889,
+                120,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "please",
+            "box": [
+                126,
+                889,
+                167,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "list",
+            "box": [
+                172,
+                889,
+                192,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                196,
+                889,
+                216,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "detail",
+            "box": [
+                222,
+                889,
+                259,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "here",
+            "box": [
+                264,
+                889,
+                293,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                295,
+                889,
+                297,
+                899
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Tax",
+            "box": [
+                397,
+                889,
+                423,
+                900
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Identification",
+            "box": [
+                429,
+                889,
+                520,
+                901
+            ],
+            "label": "other"
+        },
+        {
+            "text": "No.",
+            "box": [
+                526,
+                891,
+                547,
+                901
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                554,
+                891,
+                559,
+                902
+            ],
+            "label": "other"
+        },
+        {
+            "text": "or",
+            "box": [
+                560,
+                891,
+                574,
+                902
+            ],
+            "label": "other"
+        },
+        {
+            "text": "equivalent",
+            "box": [
+                579,
+                891,
+                650,
+                903
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                650,
+                892,
+                655,
+                903
+            ],
+            "label": "other"
+        },
+        {
+            "text": "如果",
+            "box": [
+                59,
+                902,
+                91,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                93,
+                902,
+                107,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                110,
+                902,
+                124,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "回答",
+            "box": [
+                126,
+                902,
+                157,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "为",
+            "box": [
+                158,
+                902,
+                173,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "“",
+            "box": [
+                181,
+                902,
+                188,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "是",
+            "box": [
+                189,
+                902,
+                205,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "”",
+            "box": [
+                207,
+                902,
+                214,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                223,
+                902,
+                227,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                241,
+                902,
+                258,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "填写",
+            "box": [
+                257,
+                902,
+                289,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "详细",
+            "box": [
+                290,
+                902,
+                322,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": "信息",
+            "box": [
+                323,
+                902,
+                355,
+                913
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                360,
+                903,
+                365,
+                914
+            ],
+            "label": "other"
+        },
+        {
+            "text": "税务",
+            "box": [
+                402,
+                903,
+                433,
+                914
+            ],
+            "label": "other"
+        },
+        {
+            "text": "代码",
+            "box": [
+                435,
+                903,
+                466,
+                914
+            ],
+            "label": "other"
+        },
+        {
+            "text": "或",
+            "box": [
+                467,
+                903,
+                482,
+                914
+            ],
+            "label": "other"
+        },
+        {
+            "text": "其它",
+            "box": [
+                482,
+                903,
+                514,
+                914
+            ],
+            "label": "other"
+        },
+        {
+            "text": "当地",
+            "box": [
+                517,
+                903,
+                547,
+                915
+            ],
+            "label": "other"
+        },
+        {
+            "text": "代码",
+            "box": [
+                549,
+                903,
+                580,
+                915
+            ],
+            "label": "other"
+        },
+        {
+            "text": "6",
+            "box": [
+                124,
+                937,
+                133,
+                944
+            ],
+            "label": "other"
+        }
+    ]
+}

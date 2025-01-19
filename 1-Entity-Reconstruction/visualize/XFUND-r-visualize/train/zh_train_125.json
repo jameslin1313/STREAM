@@ -1,0 +1,6644 @@
+{
+    "form": [
+        {
+            "text": "Please",
+            "box": [
+                72,
+                62,
+                110,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "complete",
+            "box": [
+                114,
+                61,
+                167,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "this",
+            "box": [
+                170,
+                62,
+                191,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "application",
+            "box": [
+                195,
+                62,
+                260,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "form",
+            "box": [
+                264,
+                62,
+                291,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                295,
+                62,
+                305,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "black",
+            "box": [
+                310,
+                62,
+                342,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "ink",
+            "box": [
+                346,
+                62,
+                365,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "by",
+            "box": [
+                368,
+                62,
+                383,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "ticking",
+            "box": [
+                386,
+                62,
+                425,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                429,
+                62,
+                434,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": "√",
+            "box": [
+                437,
+                62,
+                445,
+                72
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                447,
+                63,
+                452,
+                73
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                457,
+                63,
+                468,
+                73
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                472,
+                63,
+                489,
+                73
+            ],
+            "label": "other"
+        },
+        {
+            "text": "appropriate",
+            "box": [
+                493,
+                63,
+                558,
+                73
+            ],
+            "label": "other"
+        },
+        {
+            "text": "box",
+            "box": [
+                562,
+                63,
+                584,
+                73
+            ],
+            "label": "other"
+        },
+        {
+            "text": "and",
+            "box": [
+                588,
+                63,
+                608,
+                73
+            ],
+            "label": "other"
+        },
+        {
+            "text": "using",
+            "box": [
+                612,
+                63,
+                643,
+                73
+            ],
+            "label": "other"
+        },
+        {
+            "text": "BLOCK",
+            "box": [
+                647,
+                63,
+                695,
+                74
+            ],
+            "label": "other"
+        },
+        {
+            "text": "CAPITALS",
+            "box": [
+                699,
+                63,
+                768,
+                74
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                769,
+                64,
+                772,
+                74
+            ],
+            "label": "other"
+        },
+        {
+            "text": "All",
+            "box": [
+                779,
+                64,
+                797,
+                74
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                801,
+                64,
+                818,
+                74
+            ],
+            "label": "other"
+        },
+        {
+            "text": "fields",
+            "box": [
+                823,
+                64,
+                854,
+                74
+            ],
+            "label": "other"
+        },
+        {
+            "text": "marked",
+            "box": [
+                858,
+                64,
+                898,
+                74
+            ],
+            "label": "other"
+        },
+        {
+            "text": "with",
+            "box": [
+                900,
+                64,
+                927,
+                74
+            ],
+            "label": "other"
+        },
+        {
+            "text": "*",
+            "box": [
+                72,
+                74,
+                79,
+                78
+            ],
+            "label": "other"
+        },
+        {
+            "text": "are",
+            "box": [
+                83,
+                75,
+                101,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "mandatory",
+            "box": [
+                104,
+                75,
+                168,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "and",
+            "box": [
+                170,
+                75,
+                191,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "please",
+            "box": [
+                195,
+                75,
+                231,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "ensure",
+            "box": [
+                235,
+                75,
+                273,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                276,
+                75,
+                294,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "form",
+            "box": [
+                298,
+                75,
+                326,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "has",
+            "box": [
+                330,
+                75,
+                349,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "been",
+            "box": [
+                354,
+                75,
+                381,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "appropriately",
+            "box": [
+                385,
+                75,
+                461,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "signed",
+            "box": [
+                464,
+                75,
+                502,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                503,
+                75,
+                505,
+                85
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                72,
+                86,
+                86,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "在",
+            "box": [
+                87,
+                86,
+                100,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "适用",
+            "box": [
+                102,
+                86,
+                129,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "空格",
+            "box": [
+                132,
+                86,
+                160,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "内",
+            "box": [
+                162,
+                86,
+                172,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "打",
+            "box": [
+                175,
+                86,
+                188,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                197,
+                86,
+                202,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "√",
+            "box": [
+                207,
+                86,
+                214,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                224,
+                86,
+                228,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                237,
+                86,
+                239,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "并",
+            "box": [
+                247,
+                86,
+                261,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "使用",
+            "box": [
+                262,
+                86,
+                289,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "黑色",
+            "box": [
+                291,
+                86,
+                318,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "墨水",
+            "box": [
+                320,
+                86,
+                348,
+                96
+            ],
+            "label": "other"
+        },
+        {
+            "text": "、",
+            "box": [
+                351,
+                86,
+                355,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "正楷",
+            "box": [
+                364,
+                86,
+                392,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "或",
+            "box": [
+                393,
+                86,
+                406,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "大写",
+            "box": [
+                408,
+                86,
+                434,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "字母",
+            "box": [
+                435,
+                87,
+                463,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "填写",
+            "box": [
+                464,
+                87,
+                491,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "本",
+            "box": [
+                494,
+                87,
+                507,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "表",
+            "box": [
+                508,
+                87,
+                522,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                523,
+                87,
+                527,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "所有",
+            "box": [
+                537,
+                87,
+                564,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "带",
+            "box": [
+                566,
+                87,
+                579,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "*",
+            "box": [
+                581,
+                87,
+                587,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                589,
+                87,
+                601,
+                97
+            ],
+            "label": "other"
+        },
+        {
+            "text": "部分",
+            "box": [
+                603,
+                87,
+                630,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "为",
+            "box": [
+                631,
+                87,
+                644,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "必填",
+            "box": [
+                646,
+                87,
+                673,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "项",
+            "box": [
+                675,
+                87,
+                687,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                687,
+                87,
+                691,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "并",
+            "box": [
+                696,
+                88,
+                709,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                710,
+                88,
+                724,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                726,
+                88,
+                738,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "按照",
+            "box": [
+                739,
+                88,
+                767,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "要求",
+            "box": [
+                768,
+                88,
+                795,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "签名",
+            "box": [
+                797,
+                88,
+                824,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                826,
+                88,
+                831,
+                98
+            ],
+            "label": "other"
+        },
+        {
+            "text": "If",
+            "box": [
+                72,
+                107,
+                83,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                84,
+                107,
+                106,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "would",
+            "box": [
+                110,
+                107,
+                147,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "like",
+            "box": [
+                151,
+                107,
+                172,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "to",
+            "box": [
+                177,
+                107,
+                187,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "apply",
+            "box": [
+                192,
+                107,
+                223,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "for",
+            "box": [
+                227,
+                107,
+                244,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "a",
+            "box": [
+                247,
+                107,
+                254,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "joint",
+            "box": [
+                257,
+                107,
+                284,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "account",
+            "box": [
+                288,
+                107,
+                333,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                333,
+                107,
+                336,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "please",
+            "box": [
+                340,
+                107,
+                378,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "tick",
+            "box": [
+                381,
+                107,
+                403,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "here",
+            "box": [
+                406,
+                107,
+                431,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": ".",
+            "box": [
+                430,
+                107,
+                434,
+                117
+            ],
+            "label": "question"
+        },
+        {
+            "text": "☑",
+            "box": [
+                477,
+                102,
+                497,
+                120
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "如果",
+            "box": [
+                72,
+                118,
+                100,
+                128
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                102,
+                118,
+                114,
+                128
+            ],
+            "label": "question"
+        },
+        {
+            "text": "希望",
+            "box": [
+                116,
+                118,
+                144,
+                128
+            ],
+            "label": "question"
+        },
+        {
+            "text": "申请",
+            "box": [
+                146,
+                118,
+                173,
+                128
+            ],
+            "label": "question"
+        },
+        {
+            "text": "联名",
+            "box": [
+                174,
+                119,
+                200,
+                128
+            ],
+            "label": "question"
+        },
+        {
+            "text": "账户",
+            "box": [
+                203,
+                119,
+                230,
+                128
+            ],
+            "label": "question"
+        },
+        {
+            "text": ",",
+            "box": [
+                233,
+                119,
+                236,
+                128
+            ],
+            "label": "question"
+        },
+        {
+            "text": "请",
+            "box": [
+                246,
+                119,
+                260,
+                129
+            ],
+            "label": "question"
+        },
+        {
+            "text": "在",
+            "box": [
+                261,
+                119,
+                274,
+                129
+            ],
+            "label": "question"
+        },
+        {
+            "text": "这里",
+            "box": [
+                275,
+                119,
+                303,
+                129
+            ],
+            "label": "question"
+        },
+        {
+            "text": "打",
+            "box": [
+                305,
+                119,
+                318,
+                129
+            ],
+            "label": "question"
+        },
+        {
+            "text": "(",
+            "box": [
+                327,
+                119,
+                332,
+                129
+            ],
+            "label": "question"
+        },
+        {
+            "text": "V",
+            "box": [
+                336,
+                119,
+                345,
+                129
+            ],
+            "label": "question"
+        },
+        {
+            "text": ")",
+            "box": [
+                355,
+                119,
+                360,
+                129
+            ],
+            "label": "question"
+        },
+        {
+            "text": "。",
+            "box": [
+                369,
+                119,
+                373,
+                129
+            ],
+            "label": "question"
+        },
+        {
+            "text": "*",
+            "box": [
+                71,
+                156,
+                79,
+                170
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Account",
+            "box": [
+                80,
+                156,
+                149,
+                170
+            ],
+            "label": "other"
+        },
+        {
+            "text": "type",
+            "box": [
+                155,
+                156,
+                190,
+                170
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                195,
+                156,
+                232,
+                170
+            ],
+            "label": "other"
+        },
+        {
+            "text": "类型",
+            "box": [
+                233,
+                156,
+                272,
+                170
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Please",
+            "box": [
+                70,
+                178,
+                112,
+                190
+            ],
+            "label": "other"
+        },
+        {
+            "text": "tick",
+            "box": [
+                116,
+                178,
+                141,
+                190
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                145,
+                179,
+                153,
+                190
+            ],
+            "label": "other"
+        },
+        {
+            "text": "✓",
+            "box": [
+                147,
+                179,
+                161,
+                190
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                158,
+                179,
+                165,
+                190
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                168,
+                179,
+                187,
+                190
+            ],
+            "label": "other"
+        },
+        {
+            "text": "type",
+            "box": [
+                193,
+                179,
+                219,
+                191
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                224,
+                179,
+                239,
+                191
+            ],
+            "label": "other"
+        },
+        {
+            "text": "account",
+            "box": [
+                242,
+                179,
+                291,
+                191
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                291,
+                179,
+                296,
+                191
+            ],
+            "label": "other"
+        },
+        {
+            "text": "s",
+            "box": [
+                297,
+                179,
+                303,
+                191
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                303,
+                179,
+                308,
+                191
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                312,
+                179,
+                337,
+                191
+            ],
+            "label": "other"
+        },
+        {
+            "text": "are",
+            "box": [
+                341,
+                179,
+                361,
+                192
+            ],
+            "label": "other"
+        },
+        {
+            "text": "applying",
+            "box": [
+                366,
+                179,
+                422,
+                192
+            ],
+            "label": "other"
+        },
+        {
+            "text": "for",
+            "box": [
+                425,
+                180,
+                443,
+                192
+            ],
+            "label": "other"
+        },
+        {
+            "text": "and",
+            "box": [
+                448,
+                180,
+                469,
+                192
+            ],
+            "label": "other"
+        },
+        {
+            "text": "specify",
+            "box": [
+                475,
+                180,
+                521,
+                192
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                525,
+                181,
+                544,
+                192
+            ],
+            "label": "other"
+        },
+        {
+            "text": "currency",
+            "box": [
+                549,
+                181,
+                605,
+                193
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                609,
+                181,
+                633,
+                193
+            ],
+            "label": "other"
+        },
+        {
+            "text": "want",
+            "box": [
+                637,
+                181,
+                668,
+                193
+            ],
+            "label": "other"
+        },
+        {
+            "text": "your",
+            "box": [
+                672,
+                181,
+                701,
+                194
+            ],
+            "label": "other"
+        },
+        {
+            "text": "account",
+            "box": [
+                705,
+                181,
+                755,
+                194
+            ],
+            "label": "other"
+        },
+        {
+            "text": "opened",
+            "box": [
+                760,
+                181,
+                804,
+                194
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                810,
+                182,
+                822,
+                194
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                822,
+                182,
+                825,
+                194
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                71,
+                193,
+                86,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "在",
+            "box": [
+                88,
+                193,
+                102,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                104,
+                193,
+                118,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "申请",
+            "box": [
+                122,
+                193,
+                151,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                154,
+                193,
+                167,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                169,
+                193,
+                198,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "类型",
+            "box": [
+                200,
+                193,
+                231,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "前",
+            "box": [
+                232,
+                193,
+                247,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "打",
+            "box": [
+                248,
+                193,
+                264,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                266,
+                193,
+                271,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "N",
+            "box": [
+                271,
+                193,
+                277,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                279,
+                193,
+                283,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                285,
+                193,
+                289,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "并",
+            "box": [
+                305,
+                193,
+                320,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "注明",
+            "box": [
+                321,
+                193,
+                352,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                356,
+                193,
+                368,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "希望",
+            "box": [
+                371,
+                193,
+                401,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "使用",
+            "box": [
+                402,
+                193,
+                432,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                435,
+                193,
+                448,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                450,
+                193,
+                479,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "币",
+            "box": [
+                483,
+                193,
+                495,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "别",
+            "box": [
+                497,
+                193,
+                512,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                516,
+                193,
+                520,
+                205
+            ],
+            "label": "other"
+        },
+        {
+            "text": "☑",
+            "box": [
+                69,
+                224,
+                89,
+                240
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Current",
+            "box": [
+                93,
+                223,
+                150,
+                230
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Account",
+            "box": [
+                154,
+                223,
+                212,
+                230
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Currency",
+            "box": [
+                430,
+                222,
+                496,
+                236
+            ],
+            "label": "question"
+        },
+        {
+            "text": "人民币",
+            "box": [
+                515,
+                224,
+                573,
+                238
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "往来",
+            "box": [
+                93,
+                235,
+                125,
+                246
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                126,
+                235,
+                157,
+                246
+            ],
+            "label": "other"
+        },
+        {
+            "text": "币",
+            "box": [
+                431,
+                236,
+                443,
+                247
+            ],
+            "label": "question"
+        },
+        {
+            "text": "别",
+            "box": [
+                445,
+                236,
+                460,
+                247
+            ],
+            "label": "question"
+        },
+        {
+            "text": "□",
+            "box": [
+                67,
+                261,
+                90,
+                276
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Instant",
+            "box": [
+                93,
+                257,
+                143,
+                268
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Access",
+            "box": [
+                146,
+                257,
+                192,
+                268
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Savings",
+            "box": [
+                196,
+                257,
+                248,
+                268
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Account",
+            "box": [
+                253,
+                258,
+                311,
+                268
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                311,
+                258,
+                315,
+                268
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Currency",
+            "box": [
+                429,
+                259,
+                495,
+                268
+            ],
+            "label": "other"
+        },
+        {
+            "text": "即",
+            "box": [
+                93,
+                270,
+                107,
+                280
+            ],
+            "label": "other"
+        },
+        {
+            "text": "能",
+            "box": [
+                108,
+                270,
+                124,
+                280
+            ],
+            "label": "other"
+        },
+        {
+            "text": "通",
+            "box": [
+                124,
+                270,
+                140,
+                280
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                141,
+                270,
+                172,
+                280
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                174,
+                270,
+                178,
+                280
+            ],
+            "label": "other"
+        },
+        {
+            "text": "币",
+            "box": [
+                431,
+                271,
+                444,
+                281
+            ],
+            "label": "other"
+        },
+        {
+            "text": "别",
+            "box": [
+                445,
+                271,
+                460,
+                281
+            ],
+            "label": "other"
+        },
+        {
+            "text": "□",
+            "box": [
+                67,
+                294,
+                88,
+                309
+            ],
+            "label": "other"
+        },
+        {
+            "text": "All",
+            "box": [
+                92,
+                292,
+                113,
+                302
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                114,
+                292,
+                118,
+                302
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                119,
+                292,
+                132,
+                302
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                133,
+                292,
+                137,
+                302
+            ],
+            "label": "other"
+        },
+        {
+            "text": "One",
+            "box": [
+                138,
+                292,
+                166,
+                303
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Fixed",
+            "box": [
+                171,
+                293,
+                208,
+                303
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Term",
+            "box": [
+                212,
+                293,
+                250,
+                303
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Deposit",
+            "box": [
+                256,
+                293,
+                307,
+                303
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Account",
+            "box": [
+                312,
+                293,
+                369,
+                303
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                371,
+                294,
+                374,
+                303
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Currency",
+            "box": [
+                432,
+                293,
+                496,
+                303
+            ],
+            "label": "other"
+        },
+        {
+            "text": "定期",
+            "box": [
+                92,
+                305,
+                124,
+                316
+            ],
+            "label": "other"
+        },
+        {
+            "text": "一",
+            "box": [
+                126,
+                305,
+                141,
+                316
+            ],
+            "label": "other"
+        },
+        {
+            "text": "本",
+            "box": [
+                141,
+                305,
+                157,
+                316
+            ],
+            "label": "other"
+        },
+        {
+            "text": "通",
+            "box": [
+                158,
+                305,
+                173,
+                316
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                174,
+                305,
+                204,
+                316
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                208,
+                305,
+                211,
+                316
+            ],
+            "label": "other"
+        },
+        {
+            "text": "币",
+            "box": [
+                430,
+                306,
+                444,
+                317
+            ],
+            "label": "other"
+        },
+        {
+            "text": "别",
+            "box": [
+                445,
+                306,
+                460,
+                317
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Please",
+            "box": [
+                68,
+                326,
+                106,
+                336
+            ],
+            "label": "other"
+        },
+        {
+            "text": "contact",
+            "box": [
+                109,
+                326,
+                151,
+                336
+            ],
+            "label": "other"
+        },
+        {
+            "text": "the",
+            "box": [
+                156,
+                326,
+                172,
+                336
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Bank",
+            "box": [
+                177,
+                326,
+                208,
+                336
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                212,
+                326,
+                222,
+                336
+            ],
+            "label": "other"
+        },
+        {
+            "text": "advance",
+            "box": [
+                226,
+                326,
+                273,
+                337
+            ],
+            "label": "other"
+        },
+        {
+            "text": "for",
+            "box": [
+                277,
+                327,
+                294,
+                337
+            ],
+            "label": "other"
+        },
+        {
+            "text": "more",
+            "box": [
+                298,
+                327,
+                327,
+                337
+            ],
+            "label": "other"
+        },
+        {
+            "text": "information",
+            "box": [
+                331,
+                327,
+                400,
+                337
+            ],
+            "label": "other"
+        },
+        {
+            "text": "if",
+            "box": [
+                404,
+                327,
+                414,
+                337
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                416,
+                327,
+                437,
+                337
+            ],
+            "label": "other"
+        },
+        {
+            "text": "want",
+            "box": [
+                441,
+                328,
+                468,
+                337
+            ],
+            "label": "other"
+        },
+        {
+            "text": "to",
+            "box": [
+                472,
+                328,
+                483,
+                337
+            ],
+            "label": "other"
+        },
+        {
+            "text": "open",
+            "box": [
+                487,
+                328,
+                515,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "an",
+            "box": [
+                520,
+                328,
+                533,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Instant",
+            "box": [
+                537,
+                328,
+                576,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Access",
+            "box": [
+                580,
+                328,
+                620,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Savings",
+            "box": [
+                625,
+                328,
+                670,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Account",
+            "box": [
+                673,
+                328,
+                722,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "or",
+            "box": [
+                726,
+                329,
+                738,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "an",
+            "box": [
+                741,
+                329,
+                754,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "All",
+            "box": [
+                759,
+                329,
+                777,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                778,
+                329,
+                782,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                784,
+                329,
+                794,
+                338
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                795,
+                329,
+                799,
+                339
+            ],
+            "label": "other"
+        },
+        {
+            "text": "One",
+            "box": [
+                800,
+                329,
+                823,
+                339
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Fixed",
+            "box": [
+                827,
+                329,
+                859,
+                339
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Term",
+            "box": [
+                863,
+                329,
+                891,
+                339
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Deposit",
+            "box": [
+                68,
+                338,
+                114,
+                348
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Account",
+            "box": [
+                117,
+                338,
+                167,
+                349
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                171,
+                338,
+                182,
+                348
+            ],
+            "label": "other"
+        },
+        {
+            "text": "currencies",
+            "box": [
+                186,
+                338,
+                245,
+                349
+            ],
+            "label": "other"
+        },
+        {
+            "text": "other",
+            "box": [
+                249,
+                339,
+                279,
+                349
+            ],
+            "label": "other"
+        },
+        {
+            "text": "than",
+            "box": [
+                282,
+                339,
+                306,
+                349
+            ],
+            "label": "other"
+        },
+        {
+            "text": "pounds",
+            "box": [
+                311,
+                339,
+                353,
+                349
+            ],
+            "label": "other"
+        },
+        {
+            "text": "sterling",
+            "box": [
+                358,
+                339,
+                400,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                400,
+                339,
+                404,
+                349
+            ],
+            "label": "other"
+        },
+        {
+            "text": "US",
+            "box": [
+                408,
+                339,
+                425,
+                349
+            ],
+            "label": "other"
+        },
+        {
+            "text": "dollars",
+            "box": [
+                430,
+                339,
+                467,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                468,
+                340,
+                472,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Euros",
+            "box": [
+                476,
+                340,
+                510,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": "and",
+            "box": [
+                514,
+                340,
+                534,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Hong",
+            "box": [
+                539,
+                340,
+                570,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Kong",
+            "box": [
+                574,
+                340,
+                606,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": "dollars",
+            "box": [
+                609,
+                340,
+                648,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                650,
+                340,
+                653,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": "All",
+            "box": [
+                656,
+                340,
+                674,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": "our",
+            "box": [
+                679,
+                340,
+                697,
+                350
+            ],
+            "label": "other"
+        },
+        {
+            "text": "current",
+            "box": [
+                701,
+                340,
+                742,
+                351
+            ],
+            "label": "other"
+        },
+        {
+            "text": "accounts",
+            "box": [
+                746,
+                340,
+                796,
+                351
+            ],
+            "label": "other"
+        },
+        {
+            "text": "are",
+            "box": [
+                800,
+                341,
+                817,
+                351
+            ],
+            "label": "other"
+        },
+        {
+            "text": "non",
+            "box": [
+                822,
+                341,
+                842,
+                351
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                843,
+                341,
+                848,
+                351
+            ],
+            "label": "other"
+        },
+        {
+            "text": "interest",
+            "box": [
+                848,
+                341,
+                889,
+                352
+            ],
+            "label": "other"
+        },
+        {
+            "text": "bearing",
+            "box": [
+                68,
+                350,
+                112,
+                360
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                112,
+                350,
+                116,
+                360
+            ],
+            "label": "other"
+        },
+        {
+            "text": "No",
+            "box": [
+                119,
+                350,
+                137,
+                360
+            ],
+            "label": "other"
+        },
+        {
+            "text": "interest",
+            "box": [
+                141,
+                350,
+                184,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "payable",
+            "box": [
+                188,
+                351,
+                232,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "on",
+            "box": [
+                236,
+                351,
+                250,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Instant",
+            "box": [
+                255,
+                351,
+                294,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Access",
+            "box": [
+                297,
+                351,
+                338,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Savings",
+            "box": [
+                343,
+                351,
+                388,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Account",
+            "box": [
+                392,
+                351,
+                441,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                442,
+                352,
+                445,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "All",
+            "box": [
+                448,
+                352,
+                466,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                467,
+                352,
+                471,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                472,
+                352,
+                483,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                483,
+                352,
+                488,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "One",
+            "box": [
+                488,
+                352,
+                512,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Fixed",
+            "box": [
+                516,
+                352,
+                548,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Term",
+            "box": [
+                553,
+                352,
+                583,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Deposit",
+            "box": [
+                587,
+                352,
+                632,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "interest",
+            "box": [
+                637,
+                352,
+                678,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "rates",
+            "box": [
+                682,
+                352,
+                708,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "are",
+            "box": [
+                712,
+                353,
+                730,
+                362
+            ],
+            "label": "other"
+        },
+        {
+            "text": "available",
+            "box": [
+                734,
+                353,
+                786,
+                363
+            ],
+            "label": "other"
+        },
+        {
+            "text": "on",
+            "box": [
+                791,
+                353,
+                804,
+                363
+            ],
+            "label": "other"
+        },
+        {
+            "text": "our",
+            "box": [
+                808,
+                353,
+                828,
+                363
+            ],
+            "label": "other"
+        },
+        {
+            "text": "website",
+            "box": [
+                831,
+                353,
+                875,
+                363
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                873,
+                353,
+                877,
+                363
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                880,
+                353,
+                891,
+                363
+            ],
+            "label": "other"
+        },
+        {
+            "text": "our",
+            "box": [
+                894,
+                353,
+                914,
+                363
+            ],
+            "label": "other"
+        },
+        {
+            "text": "branches",
+            "box": [
+                67,
+                363,
+                120,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                120,
+                363,
+                123,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "or",
+            "box": [
+                128,
+                363,
+                140,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                143,
+                363,
+                165,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "can",
+            "box": [
+                169,
+                363,
+                189,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "ask",
+            "box": [
+                193,
+                363,
+                212,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "for",
+            "box": [
+                215,
+                363,
+                232,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "this",
+            "box": [
+                235,
+                363,
+                256,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "information",
+            "box": [
+                262,
+                363,
+                329,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "any",
+            "box": [
+                333,
+                363,
+                354,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "time",
+            "box": [
+                358,
+                363,
+                383,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "from",
+            "box": [
+                387,
+                364,
+                415,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "our",
+            "box": [
+                419,
+                364,
+                438,
+                372
+            ],
+            "label": "other"
+        },
+        {
+            "text": "customer",
+            "box": [
+                442,
+                364,
+                494,
+                373
+            ],
+            "label": "other"
+        },
+        {
+            "text": "service",
+            "box": [
+                498,
+                364,
+                539,
+                373
+            ],
+            "label": "other"
+        },
+        {
+            "text": "team",
+            "box": [
+                543,
+                364,
+                570,
+                373
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                570,
+                364,
+                575,
+                373
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                68,
+                374,
+                82,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "注意",
+            "box": [
+                83,
+                374,
+                111,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": ":",
+            "box": [
+                113,
+                374,
+                116,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "如果",
+            "box": [
+                126,
+                374,
+                155,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                158,
+                374,
+                169,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "希望",
+            "box": [
+                171,
+                374,
+                198,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "开",
+            "box": [
+                200,
+                374,
+                213,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "英镑",
+            "box": [
+                229,
+                374,
+                257,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "、",
+            "box": [
+                260,
+                374,
+                263,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "美元",
+            "box": [
+                272,
+                374,
+                300,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "、",
+            "box": [
+                303,
+                374,
+                306,
+                384
+            ],
+            "label": "other"
+        },
+        {
+            "text": "欧元",
+            "box": [
+                317,
+                374,
+                344,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "、",
+            "box": [
+                347,
+                375,
+                350,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "港币",
+            "box": [
+                360,
+                375,
+                388,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "以外",
+            "box": [
+                391,
+                375,
+                416,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                419,
+                375,
+                431,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "其它",
+            "box": [
+                432,
+                375,
+                459,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "币",
+            "box": [
+                462,
+                375,
+                473,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "别的",
+            "box": [
+                476,
+                375,
+                503,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "即",
+            "box": [
+                506,
+                375,
+                517,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "能",
+            "box": [
+                520,
+                375,
+                533,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "通",
+            "box": [
+                534,
+                375,
+                547,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "或",
+            "box": [
+                549,
+                375,
+                562,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "定期",
+            "box": [
+                563,
+                375,
+                591,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "一",
+            "box": [
+                596,
+                375,
+                605,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "本",
+            "box": [
+                606,
+                375,
+                619,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "通",
+            "box": [
+                620,
+                375,
+                634,
+                385
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                636,
+                375,
+                662,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                665,
+                376,
+                668,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                678,
+                376,
+                691,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "事先",
+            "box": [
+                693,
+                376,
+                720,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "与",
+            "box": [
+                722,
+                376,
+                734,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "银行",
+            "box": [
+                736,
+                376,
+                763,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "联系",
+            "box": [
+                766,
+                376,
+                792,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                795,
+                376,
+                798,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "我们",
+            "box": [
+                809,
+                376,
+                836,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "会",
+            "box": [
+                838,
+                376,
+                850,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "向",
+            "box": [
+                853,
+                376,
+                864,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                866,
+                376,
+                877,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "提供",
+            "box": [
+                878,
+                376,
+                906,
+                386
+            ],
+            "label": "other"
+        },
+        {
+            "text": "更多",
+            "box": [
+                68,
+                387,
+                95,
+                397
+            ],
+            "label": "other"
+        },
+        {
+            "text": "信息",
+            "box": [
+                97,
+                387,
+                125,
+                397
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                128,
+                387,
+                132,
+                397
+            ],
+            "label": "other"
+        },
+        {
+            "text": "我们",
+            "box": [
+                141,
+                387,
+                169,
+                397
+            ],
+            "label": "other"
+        },
+        {
+            "text": "所有",
+            "box": [
+                171,
+                387,
+                197,
+                397
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                200,
+                387,
+                212,
+                397
+            ],
+            "label": "other"
+        },
+        {
+            "text": "往来",
+            "box": [
+                214,
+                387,
+                242,
+                397
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                243,
+                387,
+                270,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "都不",
+            "box": [
+                272,
+                388,
+                300,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "计",
+            "box": [
+                302,
+                388,
+                315,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "息",
+            "box": [
+                316,
+                388,
+                329,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                331,
+                388,
+                334,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "即",
+            "box": [
+                346,
+                388,
+                358,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "能",
+            "box": [
+                360,
+                388,
+                373,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "通",
+            "box": [
+                375,
+                388,
+                388,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                390,
+                388,
+                416,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "也不",
+            "box": [
+                418,
+                388,
+                445,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "计",
+            "box": [
+                445,
+                388,
+                459,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "息",
+            "box": [
+                461,
+                388,
+                474,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                476,
+                388,
+                480,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                491,
+                388,
+                504,
+                398
+            ],
+            "label": "other"
+        },
+        {
+            "text": "可以",
+            "box": [
+                505,
+                388,
+                533,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "在",
+            "box": [
+                533,
+                389,
+                546,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "网站",
+            "box": [
+                550,
+                389,
+                576,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "、",
+            "box": [
+                578,
+                389,
+                582,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "分行",
+            "box": [
+                592,
+                389,
+                619,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "网点",
+            "box": [
+                621,
+                389,
+                648,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "或者",
+            "box": [
+                650,
+                389,
+                677,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "客服",
+            "box": [
+                678,
+                389,
+                706,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "团队",
+            "box": [
+                707,
+                389,
+                734,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "咨询",
+            "box": [
+                736,
+                389,
+                764,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "具体",
+            "box": [
+                765,
+                389,
+                793,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "定期",
+            "box": [
+                794,
+                389,
+                822,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "一",
+            "box": [
+                825,
+                389,
+                835,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "本",
+            "box": [
+                837,
+                389,
+                851,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "通",
+            "box": [
+                851,
+                389,
+                864,
+                399
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                865,
+                389,
+                890,
+                400
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                893,
+                390,
+                905,
+                400
+            ],
+            "label": "other"
+        },
+        {
+            "text": "利息",
+            "box": [
+                69,
+                401,
+                95,
+                410
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                99,
+                401,
+                102,
+                410
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Debit",
+            "box": [
+                68,
+                433,
+                103,
+                444
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Card",
+            "box": [
+                107,
+                433,
+                139,
+                444
+            ],
+            "label": "other"
+        },
+        {
+            "text": "借记",
+            "box": [
+                143,
+                433,
+                175,
+                444
+            ],
+            "label": "other"
+        },
+        {
+            "text": "卡",
+            "box": [
+                176,
+                433,
+                191,
+                444
+            ],
+            "label": "other"
+        },
+        {
+            "text": "*",
+            "box": [
+                67,
+                455,
+                74,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Do",
+            "box": [
+                76,
+                455,
+                94,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                99,
+                455,
+                123,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "want",
+            "box": [
+                128,
+                455,
+                163,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "a",
+            "box": [
+                167,
+                455,
+                174,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "debit",
+            "box": [
+                179,
+                455,
+                213,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "card",
+            "box": [
+                217,
+                455,
+                248,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                250,
+                455,
+                256,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                261,
+                455,
+                276,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "希望",
+            "box": [
+                278,
+                455,
+                309,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "申请",
+            "box": [
+                312,
+                455,
+                342,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "借记",
+            "box": [
+                343,
+                455,
+                375,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "卡",
+            "box": [
+                376,
+                455,
+                390,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "吗",
+            "box": [
+                392,
+                455,
+                407,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                410,
+                455,
+                416,
+                466
+            ],
+            "label": "question"
+        },
+        {
+            "text": "☑",
+            "box": [
+                454,
+                454,
+                471,
+                466
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                481,
+                454,
+                504,
+                466
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是",
+            "box": [
+                507,
+                454,
+                525,
+                466
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "□",
+            "box": [
+                570,
+                456,
+                585,
+                466
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                591,
+                456,
+                610,
+                467
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                612,
+                456,
+                630,
+                467
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Personal",
+            "box": [
+                66,
+                490,
+                121,
+                502
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Internet",
+            "box": [
+                127,
+                490,
+                177,
+                502
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Banking",
+            "box": [
+                181,
+                490,
+                235,
+                502
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Service",
+            "box": [
+                239,
+                490,
+                286,
+                502
+            ],
+            "label": "other"
+        },
+        {
+            "text": "个人",
+            "box": [
+                293,
+                490,
+                322,
+                502
+            ],
+            "label": "other"
+        },
+        {
+            "text": "网上",
+            "box": [
+                325,
+                490,
+                356,
+                502
+            ],
+            "label": "other"
+        },
+        {
+            "text": "银行",
+            "box": [
+                357,
+                490,
+                389,
+                502
+            ],
+            "label": "other"
+        },
+        {
+            "text": "服务",
+            "box": [
+                390,
+                490,
+                420,
+                502
+            ],
+            "label": "other"
+        },
+        {
+            "text": "*",
+            "box": [
+                66,
+                512,
+                72,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Do",
+            "box": [
+                75,
+                512,
+                93,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                97,
+                512,
+                122,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "want",
+            "box": [
+                126,
+                512,
+                162,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "to",
+            "box": [
+                166,
+                512,
+                178,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "use",
+            "box": [
+                184,
+                512,
+                204,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "internet",
+            "box": [
+                210,
+                512,
+                263,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "banking",
+            "box": [
+                268,
+                512,
+                324,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "service",
+            "box": [
+                329,
+                512,
+                376,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                377,
+                512,
+                383,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                397,
+                512,
+                412,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "需要",
+            "box": [
+                414,
+                512,
+                445,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "申请",
+            "box": [
+                447,
+                512,
+                477,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "网上",
+            "box": [
+                478,
+                512,
+                510,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "银行",
+            "box": [
+                510,
+                512,
+                542,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "服务",
+            "box": [
+                543,
+                512,
+                574,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                577,
+                512,
+                583,
+                524
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                683,
+                514,
+                707,
+                525
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是",
+            "box": [
+                710,
+                514,
+                729,
+                524
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                806,
+                515,
+                825,
+                525
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                827,
+                515,
+                845,
+                525
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Mobile",
+            "box": [
+                66,
+                547,
+                112,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Banking",
+            "box": [
+                117,
+                547,
+                171,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Service",
+            "box": [
+                180,
+                547,
+                227,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "个人",
+            "box": [
+                232,
+                547,
+                263,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "手机",
+            "box": [
+                264,
+                547,
+                295,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "银行",
+            "box": [
+                297,
+                547,
+                328,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                338,
+                547,
+                343,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "境外",
+            "box": [
+                345,
+                547,
+                377,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "版",
+            "box": [
+                379,
+                547,
+                392,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                396,
+                547,
+                401,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "服务",
+            "box": [
+                411,
+                547,
+                441,
+                559
+            ],
+            "label": "other"
+        },
+        {
+            "text": "*",
+            "box": [
+                65,
+                577,
+                72,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Do",
+            "box": [
+                74,
+                577,
+                92,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "you",
+            "box": [
+                97,
+                577,
+                121,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "want",
+            "box": [
+                127,
+                577,
+                160,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "to",
+            "box": [
+                165,
+                577,
+                177,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "use",
+            "box": [
+                183,
+                577,
+                203,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "the",
+            "box": [
+                208,
+                577,
+                229,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "BOC",
+            "box": [
+                235,
+                577,
+                268,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Mobile",
+            "box": [
+                274,
+                577,
+                321,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Banking",
+            "box": [
+                327,
+                577,
+                385,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "service",
+            "box": [
+                389,
+                577,
+                435,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                437,
+                577,
+                442,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "您",
+            "box": [
+                448,
+                577,
+                463,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "需要",
+            "box": [
+                464,
+                577,
+                496,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "申请",
+            "box": [
+                499,
+                577,
+                529,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "个人",
+            "box": [
+                529,
+                577,
+                561,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "手机",
+            "box": [
+                562,
+                577,
+                593,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "银行",
+            "box": [
+                594,
+                577,
+                625,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "(",
+            "box": [
+                635,
+                577,
+                641,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "境外",
+            "box": [
+                642,
+                577,
+                673,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "版",
+            "box": [
+                675,
+                577,
+                689,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": ")",
+            "box": [
+                691,
+                577,
+                697,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "服务",
+            "box": [
+                707,
+                577,
+                737,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "吗",
+            "box": [
+                740,
+                577,
+                754,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "?",
+            "box": [
+                756,
+                577,
+                762,
+                588
+            ],
+            "label": "question"
+        },
+        {
+            "text": "☑Yes",
+            "box": [
+                79,
+                603,
+                128,
+                614
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Yes",
+            "box": [
+                101,
+                605,
+                125,
+                615
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是",
+            "box": [
+                129,
+                605,
+                147,
+                615
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "☐",
+            "box": [
+                201,
+                605,
+                213,
+                614
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "No",
+            "box": [
+                227,
+                605,
+                246,
+                614
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "1",
+            "box": [
+                251,
+                605,
+                263,
+                614
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "否",
+            "box": [
+                249,
+                606,
+                267,
+                616
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Monthly",
+            "box": [
+                64,
+                632,
+                120,
+                643
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Bank",
+            "box": [
+                124,
+                632,
+                158,
+                643
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Statement",
+            "box": [
+                162,
+                632,
+                226,
+                643
+            ],
+            "label": "other"
+        },
+        {
+            "text": "月度",
+            "box": [
+                230,
+                632,
+                262,
+                643
+            ],
+            "label": "other"
+        },
+        {
+            "text": "对",
+            "box": [
+                262,
+                632,
+                279,
+                643
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账单",
+            "box": [
+                279,
+                632,
+                310,
+                643
+            ],
+            "label": "other"
+        },
+        {
+            "text": "We",
+            "box": [
+                63,
+                654,
+                86,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "will",
+            "box": [
+                91,
+                654,
+                116,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "post",
+            "box": [
+                120,
+                654,
+                149,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "your",
+            "box": [
+                152,
+                654,
+                185,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "monthly",
+            "box": [
+                190,
+                655,
+                247,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "bank",
+            "box": [
+                251,
+                655,
+                286,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "statement",
+            "box": [
+                290,
+                655,
+                358,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "to",
+            "box": [
+                361,
+                655,
+                375,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "your",
+            "box": [
+                379,
+                655,
+                411,
+                665
+            ],
+            "label": "other"
+        },
+        {
+            "text": "correspondence",
+            "box": [
+                416,
+                655,
+                524,
+                666
+            ],
+            "label": "other"
+        },
+        {
+            "text": "address",
+            "box": [
+                528,
+                655,
+                580,
+                666
+            ],
+            "label": "other"
+        },
+        {
+            "text": "unless",
+            "box": [
+                585,
+                656,
+                625,
+                666
+            ],
+            "label": "other"
+        },
+        {
+            "text": "there",
+            "box": [
+                631,
+                656,
+                666,
+                666
+            ],
+            "label": "other"
+        },
+        {
+            "text": "is",
+            "box": [
+                670,
+                656,
+                680,
+                666
+            ],
+            "label": "other"
+        },
+        {
+            "text": "no",
+            "box": [
+                685,
+                656,
+                701,
+                666
+            ],
+            "label": "other"
+        },
+        {
+            "text": "transaction",
+            "box": [
+                705,
+                656,
+                784,
+                667
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                783,
+                656,
+                787,
+                667
+            ],
+            "label": "other"
+        },
+        {
+            "text": "If",
+            "box": [
+                792,
+                656,
+                805,
+                667
+            ],
+            "label": "other"
+        },
+        {
+            "text": "you",
+            "box": [
+                807,
+                656,
+                832,
+                667
+            ],
+            "label": "other"
+        },
+        {
+            "text": "do",
+            "box": [
+                836,
+                656,
+                853,
+                667
+            ],
+            "label": "other"
+        },
+        {
+            "text": "not",
+            "box": [
+                857,
+                657,
+                879,
+                667
+            ],
+            "label": "other"
+        },
+        {
+            "text": "wish",
+            "box": [
+                881,
+                657,
+                913,
+                667
+            ],
+            "label": "other"
+        },
+        {
+            "text": "to",
+            "box": [
+                62,
+                674,
+                76,
+                685
+            ],
+            "label": "other"
+        },
+        {
+            "text": "receive",
+            "box": [
+                81,
+                674,
+                129,
+                685
+            ],
+            "label": "other"
+        },
+        {
+            "text": "bank",
+            "box": [
+                134,
+                674,
+                168,
+                685
+            ],
+            "label": "other"
+        },
+        {
+            "text": "statement",
+            "box": [
+                172,
+                674,
+                239,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                240,
+                674,
+                242,
+                685
+            ],
+            "label": "other"
+        },
+        {
+            "text": "please",
+            "box": [
+                248,
+                674,
+                289,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "tick",
+            "box": [
+                294,
+                674,
+                319,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "this",
+            "box": [
+                323,
+                674,
+                348,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "box",
+            "box": [
+                354,
+                674,
+                378,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "to",
+            "box": [
+                383,
+                674,
+                395,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "comfirm",
+            "box": [
+                401,
+                675,
+                458,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "your",
+            "box": [
+                467,
+                675,
+                499,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "choice",
+            "box": [
+                504,
+                675,
+                546,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                547,
+                675,
+                550,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "如果",
+            "box": [
+                556,
+                675,
+                587,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                589,
+                675,
+                603,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                606,
+                675,
+                619,
+                686
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                621,
+                675,
+                651,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "当月",
+            "box": [
+                653,
+                675,
+                681,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "有",
+            "box": [
+                684,
+                675,
+                699,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "交易",
+            "box": [
+                700,
+                675,
+                731,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                734,
+                675,
+                738,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "我们",
+            "box": [
+                749,
+                675,
+                781,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "将会",
+            "box": [
+                782,
+                675,
+                813,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "给您寄",
+            "box": [
+                814,
+                675,
+                861,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "送",
+            "box": [
+                862,
+                676,
+                875,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "银行",
+            "box": [
+                877,
+                676,
+                906,
+                687
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                63,
+                695,
+                94,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "对",
+            "box": [
+                95,
+                695,
+                112,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账单",
+            "box": [
+                112,
+                695,
+                143,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                146,
+                695,
+                150,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "如果",
+            "box": [
+                160,
+                695,
+                192,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                195,
+                696,
+                208,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "不想",
+            "box": [
+                210,
+                696,
+                241,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "接收",
+            "box": [
+                241,
+                696,
+                274,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "银行",
+            "box": [
+                275,
+                696,
+                306,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "对",
+            "box": [
+                306,
+                696,
+                322,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账单",
+            "box": [
+                323,
+                696,
+                355,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": ",",
+            "box": [
+                357,
+                696,
+                361,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                372,
+                696,
+                388,
+                707
+            ],
+            "label": "other"
+        },
+        {
+            "text": "您",
+            "box": [
+                389,
+                696,
+                403,
+                708
+            ],
+            "label": "other"
+        },
+        {
+            "text": "在",
+            "box": [
+                406,
+                696,
+                420,
+                708
+            ],
+            "label": "other"
+        },
+        {
+            "text": "下方",
+            "box": [
+                422,
+                696,
+                452,
+                708
+            ],
+            "label": "other"
+        },
+        {
+            "text": "勾选",
+            "box": [
+                453,
+                696,
+                484,
+                708
+            ],
+            "label": "other"
+        },
+        {
+            "text": "不需要",
+            "box": [
+                486,
+                696,
+                534,
+                708
+            ],
+            "label": "other"
+        },
+        {
+            "text": "该项",
+            "box": [
+                535,
+                696,
+                566,
+                708
+            ],
+            "label": "other"
+        },
+        {
+            "text": "服务",
+            "box": [
+                568,
+                696,
+                598,
+                708
+            ],
+            "label": "other"
+        },
+        {
+            "text": "。",
+            "box": [
+                601,
+                696,
+                606,
+                708
+            ],
+            "label": "other"
+        },
+        {
+            "text": "I",
+            "box": [
+                96,
+                719,
+                102,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "do",
+            "box": [
+                107,
+                719,
+                122,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "not",
+            "box": [
+                128,
+                719,
+                149,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "wish",
+            "box": [
+                154,
+                719,
+                184,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "to",
+            "box": [
+                189,
+                719,
+                201,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "receive",
+            "box": [
+                207,
+                719,
+                254,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "bank",
+            "box": [
+                258,
+                719,
+                293,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "statement",
+            "box": [
+                297,
+                719,
+                365,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "by",
+            "box": [
+                369,
+                719,
+                386,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "post",
+            "box": [
+                391,
+                719,
+                419,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": ".",
+            "box": [
+                420,
+                719,
+                422,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "我",
+            "box": [
+                428,
+                719,
+                443,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "不",
+            "box": [
+                444,
+                719,
+                459,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "希望",
+            "box": [
+                460,
+                719,
+                491,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "接收",
+            "box": [
+                493,
+                719,
+                525,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "银行",
+            "box": [
+                526,
+                719,
+                557,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "寄送",
+            "box": [
+                558,
+                719,
+                589,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "的",
+            "box": [
+                591,
+                719,
+                605,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "对",
+            "box": [
+                606,
+                719,
+                621,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账单",
+            "box": [
+                623,
+                719,
+                653,
+                730
+            ],
+            "label": "other"
+        },
+        {
+            "text": "*",
+            "box": [
+                63,
+                755,
+                70,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "1",
+            "box": [
+                73,
+                755,
+                79,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "*",
+            "box": [
+                85,
+                755,
+                91,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "account",
+            "box": [
+                97,
+                755,
+                160,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "holder",
+            "box": [
+                166,
+                755,
+                219,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "第一",
+            "box": [
+                223,
+                755,
+                261,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "账户",
+            "box": [
+                262,
+                755,
+                299,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "持有",
+            "box": [
+                301,
+                755,
+                340,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "人",
+            "box": [
+                340,
+                755,
+                360,
+                769
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Identity",
+            "box": [
+                66,
+                781,
+                132,
+                795
+            ],
+            "label": "question"
+        },
+        {
+            "text": "details",
+            "box": [
+                137,
+                780,
+                189,
+                794
+            ],
+            "label": "question"
+        },
+        {
+            "text": "身份",
+            "box": [
+                195,
+                780,
+                234,
+                793
+            ],
+            "label": "question"
+        },
+        {
+            "text": "资料",
+            "box": [
+                235,
+                779,
+                274,
+                793
+            ],
+            "label": "question"
+        },
+        {
+            "text": "*",
+            "box": [
+                62,
+                805,
+                68,
+                812
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Title",
+            "box": [
+                69,
+                805,
+                101,
+                813
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                102,
+                805,
+                106,
+                813
+            ],
+            "label": "question"
+        },
+        {
+            "text": "IVI",
+            "box": [
+                143,
+                810,
+                160,
+                819
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Mr",
+            "box": [
+                168,
+                806,
+                190,
+                812
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "□",
+            "box": [
+                209,
+                809,
+                238,
+                823
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Mrs",
+            "box": [
+                242,
+                806,
+                271,
+                813
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "□'",
+            "box": [
+                289,
+                811,
+                316,
+                822
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Miss",
+            "box": [
+                312,
+                806,
+                344,
+                813
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "□",
+            "box": [
+                364,
+                810,
+                387,
+                822
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Ms",
+            "box": [
+                393,
+                806,
+                416,
+                813
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "□",
+            "box": [
+                437,
+                811,
+                464,
+                824
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Other",
+            "box": [
+                468,
+                805,
+                510,
+                816
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                514,
+                806,
+                518,
+                816
+            ],
+            "label": "other"
+        },
+        {
+            "text": "please",
+            "box": [
+                520,
+                806,
+                561,
+                816
+            ],
+            "label": "other"
+        },
+        {
+            "text": "specify",
+            "box": [
+                565,
+                806,
+                612,
+                817
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                611,
+                807,
+                616,
+                817
+            ],
+            "label": "other"
+        },
+        {
+            "text": "称谓",
+            "box": [
+                73,
+                817,
+                105,
+                827
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                106,
+                817,
+                110,
+                827
+            ],
+            "label": "question"
+        },
+        {
+            "text": "先生",
+            "box": [
+                168,
+                818,
+                199,
+                828
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "夫人",
+            "box": [
+                240,
+                818,
+                272,
+                828
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "小姐",
+            "box": [
+                313,
+                818,
+                346,
+                829
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "女士",
+            "box": [
+                391,
+                818,
+                423,
+                828
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "其它",
+            "box": [
+                467,
+                818,
+                500,
+                829
+            ],
+            "label": "other"
+        },
+        {
+            "text": "(",
+            "box": [
+                509,
+                818,
+                515,
+                829
+            ],
+            "label": "other"
+        },
+        {
+            "text": "请",
+            "box": [
+                516,
+                818,
+                533,
+                829
+            ],
+            "label": "other"
+        },
+        {
+            "text": "具体",
+            "box": [
+                533,
+                818,
+                565,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": "注明",
+            "box": [
+                566,
+                818,
+                596,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": ")",
+            "box": [
+                599,
+                819,
+                605,
+                830
+            ],
+            "label": "other"
+        },
+        {
+            "text": "*",
+            "box": [
+                61,
+                846,
+                67,
+                854
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Surname",
+            "box": [
+                68,
+                846,
+                131,
+                854
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                136,
+                846,
+                148,
+                854
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Chinese",
+            "box": [
+                153,
+                846,
+                208,
+                854
+            ],
+            "label": "question"
+        },
+        {
+            "text": "欧",
+            "box": [
+                212,
+                854,
+                231,
+                865
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "*",
+            "box": [
+                408,
+                847,
+                414,
+                855
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Other",
+            "box": [
+                416,
+                847,
+                456,
+                855
+            ],
+            "label": "question"
+        },
+        {
+            "text": "names",
+            "box": [
+                461,
+                847,
+                504,
+                856
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                509,
+                848,
+                522,
+                856
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Chinese",
+            "box": [
+                527,
+                848,
+                581,
+                856
+            ],
+            "label": "question"
+        },
+        {
+            "text": "超",
+            "box": [
+                602,
+                852,
+                618,
+                864
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "航",
+            "box": [
+                620,
+                852,
+                639,
+                864
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "中文",
+            "box": [
+                70,
+                858,
+                101,
+                869
+            ],
+            "label": "question"
+        },
+        {
+            "text": "姓",
+            "box": [
+                101,
+                859,
+                116,
+                869
+            ],
+            "label": "question"
+        },
+        {
+            "text": "中文",
+            "box": [
+                419,
+                860,
+                450,
+                870
+            ],
+            "label": "question"
+        },
+        {
+            "text": "名",
+            "box": [
+                450,
+                860,
+                465,
+                870
+            ],
+            "label": "question"
+        },
+        {
+            "text": "*",
+            "box": [
+                59,
+                883,
+                66,
+                897
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Surname",
+            "box": [
+                67,
+                883,
+                131,
+                899
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                134,
+                886,
+                148,
+                900
+            ],
+            "label": "question"
+        },
+        {
+            "text": "English",
+            "box": [
+                151,
+                886,
+                204,
+                902
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Smith",
+            "box": [
+                212,
+                889,
+                262,
+                905
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "*",
+            "box": [
+                326,
+                885,
+                333,
+                898
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Middle",
+            "box": [
+                333,
+                885,
+                378,
+                900
+            ],
+            "label": "question"
+        },
+        {
+            "text": "name",
+            "box": [
+                381,
+                887,
+                416,
+                901
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                418,
+                888,
+                432,
+                901
+            ],
+            "label": "question"
+        },
+        {
+            "text": "English",
+            "box": [
+                433,
+                888,
+                483,
+                903
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Harry",
+            "box": [
+                485,
+                890,
+                533,
+                905
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "*",
+            "box": [
+                596,
+                888,
+                603,
+                898
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Other",
+            "box": [
+                604,
+                888,
+                645,
+                899
+            ],
+            "label": "question"
+        },
+        {
+            "text": "names",
+            "box": [
+                648,
+                889,
+                691,
+                899
+            ],
+            "label": "question"
+        },
+        {
+            "text": "in",
+            "box": [
+                696,
+                889,
+                708,
+                900
+            ],
+            "label": "question"
+        },
+        {
+            "text": "English",
+            "box": [
+                714,
+                889,
+                764,
+                900
+            ],
+            "label": "question"
+        },
+        {
+            "text": "英文",
+            "box": [
+                68,
+                900,
+                100,
+                911
+            ],
+            "label": "question"
+        },
+        {
+            "text": "姓",
+            "box": [
+                100,
+                899,
+                116,
+                910
+            ],
+            "label": "question"
+        },
+        {
+            "text": "中间",
+            "box": [
+                336,
+                901,
+                366,
+                912
+            ],
+            "label": "question"
+        },
+        {
+            "text": "英文",
+            "box": [
+                367,
+                901,
+                399,
+                912
+            ],
+            "label": "question"
+        },
+        {
+            "text": "名",
+            "box": [
+                399,
+                901,
+                414,
+                912
+            ],
+            "label": "question"
+        },
+        {
+            "text": "英文",
+            "box": [
+                606,
+                902,
+                638,
+                913
+            ],
+            "label": "question"
+        },
+        {
+            "text": "名",
+            "box": [
+                638,
+                902,
+                653,
+                913
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Bob",
+            "box": [
+                786,
+                896,
+                818,
+                906
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2",
+            "box": [
+                124,
+                938,
+                131,
+                944
+            ],
+            "label": "other"
+        }
+    ]
+}

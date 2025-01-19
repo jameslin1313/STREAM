@@ -1,0 +1,2404 @@
+{
+    "form": [
+        {
+            "text": "开业",
+            "box": [
+                126,
+                139,
+                176,
+                151
+            ],
+            "label": "question"
+        },
+        {
+            "text": "日期",
+            "box": [
+                197,
+                139,
+                245,
+                151
+            ],
+            "label": "question"
+        },
+        {
+            "text": "2019",
+            "box": [
+                277,
+                141,
+                312,
+                153
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "年",
+            "box": [
+                321,
+                139,
+                339,
+                151
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "8",
+            "box": [
+                350,
+                145,
+                358,
+                152
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "月",
+            "box": [
+                374,
+                140,
+                388,
+                151
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "9",
+            "box": [
+                412,
+                141,
+                422,
+                151
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "日",
+            "box": [
+                426,
+                140,
+                439,
+                150
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "获利",
+            "box": [
+                546,
+                139,
+                595,
+                151
+            ],
+            "label": "question"
+        },
+        {
+            "text": "年度",
+            "box": [
+                613,
+                139,
+                664,
+                152
+            ],
+            "label": "question"
+        },
+        {
+            "text": "9",
+            "box": [
+                741,
+                141,
+                749,
+                152
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "年",
+            "box": [
+                769,
+                141,
+                786,
+                152
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "7",
+            "box": [
+                800,
+                141,
+                807,
+                152
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "月",
+            "box": [
+                820,
+                141,
+                834,
+                152
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Business",
+            "box": [
+                106,
+                155,
+                166,
+                165
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                169,
+                160,
+                176,
+                161
+            ],
+            "label": "other"
+        },
+        {
+            "text": "starting",
+            "box": [
+                183,
+                155,
+                234,
+                166
+            ],
+            "label": "other"
+        },
+        {
+            "text": "date",
+            "box": [
+                238,
+                156,
+                266,
+                166
+            ],
+            "label": "other"
+        },
+        {
+            "text": "D",
+            "box": [
+                327,
+                156,
+                341,
+                164
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "MY",
+            "box": [
+                375,
+                156,
+                435,
+                164
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "First",
+            "box": [
+                524,
+                155,
+                555,
+                166
+            ],
+            "label": "other"
+        },
+        {
+            "text": "profit",
+            "box": [
+                559,
+                155,
+                596,
+                167
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                596,
+                156,
+                602,
+                167
+            ],
+            "label": "other"
+        },
+        {
+            "text": "making",
+            "box": [
+                602,
+                156,
+                653,
+                167
+            ],
+            "label": "other"
+        },
+        {
+            "text": "year",
+            "box": [
+                657,
+                157,
+                687,
+                168
+            ],
+            "label": "other"
+        },
+        {
+            "text": "M",
+            "box": [
+                771,
+                157,
+                786,
+                165
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "D",
+            "box": [
+                820,
+                157,
+                833,
+                165
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "人",
+            "box": [
+                125,
+                188,
+                143,
+                200
+            ],
+            "label": "question"
+        },
+        {
+            "text": "业",
+            "box": [
+                160,
+                188,
+                177,
+                200
+            ],
+            "label": "question"
+        },
+        {
+            "text": "人数",
+            "box": [
+                194,
+                188,
+                245,
+                200
+            ],
+            "label": "question"
+        },
+        {
+            "text": "其中",
+            "box": [
+                529,
+                189,
+                561,
+                201
+            ],
+            "label": "question"
+        },
+        {
+            "text": ":",
+            "box": [
+                565,
+                189,
+                568,
+                201
+            ],
+            "label": "question"
+        },
+        {
+            "text": "外籍",
+            "box": [
+                579,
+                189,
+                613,
+                201
+            ],
+            "label": "question"
+        },
+        {
+            "text": "人员",
+            "box": [
+                614,
+                190,
+                646,
+                201
+            ],
+            "label": "question"
+        },
+        {
+            "text": "人数",
+            "box": [
+                647,
+                190,
+                681,
+                201
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Number",
+            "box": [
+                110,
+                204,
+                167,
+                215
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                170,
+                204,
+                186,
+                215
+            ],
+            "label": "other"
+        },
+        {
+            "text": "employees",
+            "box": [
+                189,
+                205,
+                261,
+                216
+            ],
+            "label": "other"
+        },
+        {
+            "text": "78",
+            "box": [
+                348,
+                199,
+                369,
+                207
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Number",
+            "box": [
+                531,
+                204,
+                587,
+                215
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                591,
+                205,
+                607,
+                215
+            ],
+            "label": "other"
+        },
+        {
+            "text": "foreigners",
+            "box": [
+                608,
+                205,
+                679,
+                216
+            ],
+            "label": "other"
+        },
+        {
+            "text": "26",
+            "box": [
+                781,
+                200,
+                804,
+                208
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "合同",
+            "box": [
+                152,
+                232,
+                185,
+                242
+            ],
+            "label": "question"
+        },
+        {
+            "text": "批准",
+            "box": [
+                186,
+                232,
+                219,
+                242
+            ],
+            "label": "question"
+        },
+        {
+            "text": "机关",
+            "box": [
+                220,
+                232,
+                253,
+                242
+            ],
+            "label": "question"
+        },
+        {
+            "text": "名称",
+            "box": [
+                254,
+                232,
+                286,
+                243
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Name",
+            "box": [
+                160,
+                248,
+                201,
+                256
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                206,
+                248,
+                220,
+                256
+            ],
+            "label": "other"
+        },
+        {
+            "text": "contract",
+            "box": [
+                224,
+                248,
+                280,
+                257
+            ],
+            "label": "other"
+        },
+        {
+            "text": "四川",
+            "box": [
+                456,
+                246,
+                490,
+                257
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "工商",
+            "box": [
+                497,
+                246,
+                535,
+                257
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "行政",
+            "box": [
+                539,
+                246,
+                577,
+                257
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "管理局",
+            "box": [
+                581,
+                246,
+                640,
+                258
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "approval",
+            "box": [
+                151,
+                262,
+                211,
+                273
+            ],
+            "label": "other"
+        },
+        {
+            "text": "authorities",
+            "box": [
+                215,
+                261,
+                286,
+                272
+            ],
+            "label": "other"
+        },
+        {
+            "text": "批准",
+            "box": [
+                160,
+                281,
+                193,
+                293
+            ],
+            "label": "question"
+        },
+        {
+            "text": "文",
+            "box": [
+                195,
+                281,
+                210,
+                293
+            ],
+            "label": "question"
+        },
+        {
+            "text": "号",
+            "box": [
+                211,
+                281,
+                227,
+                293
+            ],
+            "label": "question"
+        },
+        {
+            "text": "及",
+            "box": [
+                229,
+                281,
+                244,
+                293
+            ],
+            "label": "question"
+        },
+        {
+            "text": "日期",
+            "box": [
+                248,
+                281,
+                278,
+                293
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Approval",
+            "box": [
+                135,
+                297,
+                201,
+                308
+            ],
+            "label": "other"
+        },
+        {
+            "text": "document",
+            "box": [
+                205,
+                296,
+                272,
+                308
+            ],
+            "label": "other"
+        },
+        {
+            "text": "No.",
+            "box": [
+                275,
+                296,
+                300,
+                307
+            ],
+            "label": "other"
+        },
+        {
+            "text": "HD59846518",
+            "box": [
+                454,
+                300,
+                538,
+                311
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                539,
+                300,
+                546,
+                311
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2019",
+            "box": [
+                547,
+                300,
+                580,
+                311
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "年",
+            "box": [
+                580,
+                300,
+                595,
+                311
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2",
+            "box": [
+                597,
+                300,
+                605,
+                311
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "月",
+            "box": [
+                606,
+                300,
+                619,
+                311
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "1",
+            "box": [
+                624,
+                300,
+                630,
+                311
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "日",
+            "box": [
+                633,
+                300,
+                645,
+                311
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "And",
+            "box": [
+                146,
+                312,
+                177,
+                320
+            ],
+            "label": "other"
+        },
+        {
+            "text": "date",
+            "box": [
+                181,
+                312,
+                209,
+                320
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                214,
+                312,
+                230,
+                320
+            ],
+            "label": "other"
+        },
+        {
+            "text": "issuance",
+            "box": [
+                232,
+                312,
+                290,
+                320
+            ],
+            "label": "other"
+        },
+        {
+            "text": "受理",
+            "box": [
+                364,
+                338,
+                397,
+                349
+            ],
+            "label": "question"
+        },
+        {
+            "text": "机关",
+            "box": [
+                397,
+                338,
+                431,
+                349
+            ],
+            "label": "question"
+        },
+        {
+            "text": "名称",
+            "box": [
+                432,
+                338,
+                464,
+                349
+            ],
+            "label": "question"
+        },
+        {
+            "text": "工商",
+            "box": [
+                137,
+                362,
+                189,
+                372
+            ],
+            "label": "question"
+        },
+        {
+            "text": "登记",
+            "box": [
+                205,
+                362,
+                256,
+                372
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Name",
+            "box": [
+                389,
+                354,
+                424,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "authorities",
+            "box": [
+                420,
+                364,
+                481,
+                374
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                427,
+                354,
+                441,
+                361
+            ],
+            "label": "other"
+        },
+        {
+            "text": "四川",
+            "box": [
+                581,
+                356,
+                612,
+                368
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "工商",
+            "box": [
+                614,
+                356,
+                646,
+                368
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "行政",
+            "box": [
+                647,
+                356,
+                681,
+                368
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "管理局",
+            "box": [
+                681,
+                356,
+                730,
+                368
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Registration",
+            "box": [
+                345,
+                365,
+                416,
+                374
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Industrial",
+            "box": [
+                125,
+                388,
+                181,
+                396
+            ],
+            "label": "other"
+        },
+        {
+            "text": "&",
+            "box": [
+                185,
+                388,
+                195,
+                396
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Commercial",
+            "box": [
+                196,
+                388,
+                269,
+                396
+            ],
+            "label": "other"
+        },
+        {
+            "text": "registration",
+            "box": [
+                167,
+                401,
+                233,
+                410
+            ],
+            "label": "other"
+        },
+        {
+            "text": "营业",
+            "box": [
+                341,
+                404,
+                369,
+                414
+            ],
+            "label": "question"
+        },
+        {
+            "text": "执照",
+            "box": [
+                370,
+                404,
+                399,
+                414
+            ],
+            "label": "question"
+        },
+        {
+            "text": "号",
+            "box": [
+                400,
+                404,
+                413,
+                414
+            ],
+            "label": "question"
+        },
+        {
+            "text": "及",
+            "box": [
+                414,
+                404,
+                428,
+                414
+            ],
+            "label": "question"
+        },
+        {
+            "text": "发",
+            "box": [
+                429,
+                404,
+                442,
+                414
+            ],
+            "label": "question"
+        },
+        {
+            "text": "照",
+            "box": [
+                443,
+                404,
+                456,
+                414
+            ],
+            "label": "question"
+        },
+        {
+            "text": "日期",
+            "box": [
+                459,
+                404,
+                485,
+                414
+            ],
+            "label": "question"
+        },
+        {
+            "text": "License",
+            "box": [
+                318,
+                418,
+                364,
+                425
+            ],
+            "label": "other"
+        },
+        {
+            "text": "No.and",
+            "box": [
+                368,
+                418,
+                411,
+                425
+            ],
+            "label": "other"
+        },
+        {
+            "text": "date",
+            "box": [
+                415,
+                418,
+                438,
+                425
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                443,
+                418,
+                456,
+                425
+            ],
+            "label": "other"
+        },
+        {
+            "text": "issuance",
+            "box": [
+                458,
+                418,
+                508,
+                425
+            ],
+            "label": "other"
+        },
+        {
+            "text": "XA6BOGNUFH",
+            "box": [
+                564,
+                415,
+                663,
+                425
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                662,
+                415,
+                667,
+                425
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2019",
+            "box": [
+                667,
+                415,
+                693,
+                425
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "年",
+            "box": [
+                694,
+                415,
+                708,
+                425
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2",
+            "box": [
+                708,
+                415,
+                714,
+                425
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "月",
+            "box": [
+                714,
+                415,
+                727,
+                425
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "1",
+            "box": [
+                731,
+                415,
+                735,
+                425
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "日",
+            "box": [
+                738,
+                415,
+                748,
+                425
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "经营",
+            "box": [
+                150,
+                463,
+                191,
+                474
+            ],
+            "label": "question"
+        },
+        {
+            "text": "范围",
+            "box": [
+                200,
+                463,
+                242,
+                474
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Business",
+            "box": [
+                151,
+                477,
+                203,
+                487
+            ],
+            "label": "other"
+        },
+        {
+            "text": "scope",
+            "box": [
+                206,
+                479,
+                241,
+                488
+            ],
+            "label": "other"
+        },
+        {
+            "text": "药品",
+            "box": [
+                369,
+                476,
+                397,
+                486
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "生产",
+            "box": [
+                397,
+                475,
+                427,
+                485
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "主要",
+            "box": [
+                136,
+                509,
+                169,
+                520
+            ],
+            "label": "question"
+        },
+        {
+            "text": "原料",
+            "box": [
+                171,
+                509,
+                203,
+                520
+            ],
+            "label": "question"
+        },
+        {
+            "text": "及",
+            "box": [
+                204,
+                509,
+                220,
+                520
+            ],
+            "label": "question"
+        },
+        {
+            "text": "来源",
+            "box": [
+                220,
+                509,
+                254,
+                520
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Major",
+            "box": [
+                129,
+                525,
+                170,
+                535
+            ],
+            "label": "other"
+        },
+        {
+            "text": "raw",
+            "box": [
+                175,
+                525,
+                200,
+                535
+            ],
+            "label": "other"
+        },
+        {
+            "text": "material",
+            "box": [
+                205,
+                524,
+                260,
+                534
+            ],
+            "label": "other"
+        },
+        {
+            "text": "四川",
+            "box": [
+                382,
+                525,
+                408,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "腾",
+            "box": [
+                410,
+                525,
+                424,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "源",
+            "box": [
+                424,
+                525,
+                438,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "制药",
+            "box": [
+                439,
+                525,
+                466,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "工厂",
+            "box": [
+                467,
+                525,
+                497,
+                535
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "and",
+            "box": [
+                144,
+                539,
+                169,
+                548
+            ],
+            "label": "other"
+        },
+        {
+            "text": "its",
+            "box": [
+                174,
+                539,
+                191,
+                548
+            ],
+            "label": "other"
+        },
+        {
+            "text": "sources",
+            "box": [
+                194,
+                539,
+                245,
+                549
+            ],
+            "label": "other"
+        },
+        {
+            "text": "主要",
+            "box": [
+                135,
+                559,
+                168,
+                570
+            ],
+            "label": "question"
+        },
+        {
+            "text": "设备",
+            "box": [
+                170,
+                559,
+                203,
+                570
+            ],
+            "label": "question"
+        },
+        {
+            "text": "及",
+            "box": [
+                204,
+                559,
+                220,
+                570
+            ],
+            "label": "question"
+        },
+        {
+            "text": "来源",
+            "box": [
+                220,
+                559,
+                254,
+                570
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Major",
+            "box": [
+                138,
+                574,
+                180,
+                585
+            ],
+            "label": "other"
+        },
+        {
+            "text": "equpment",
+            "box": [
+                184,
+                575,
+                252,
+                586
+            ],
+            "label": "other"
+        },
+        {
+            "text": "分",
+            "box": [
+                374,
+                578,
+                388,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "装机",
+            "box": [
+                388,
+                578,
+                417,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ",",
+            "box": [
+                420,
+                578,
+                422,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "札",
+            "box": [
+                432,
+                578,
+                445,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "盖",
+            "box": [
+                445,
+                578,
+                460,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "机",
+            "box": [
+                460,
+                578,
+                475,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ",",
+            "box": [
+                477,
+                578,
+                479,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "包装",
+            "box": [
+                489,
+                578,
+                518,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "机",
+            "box": [
+                519,
+                578,
+                533,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ",",
+            "box": [
+                535,
+                578,
+                537,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "风机",
+            "box": [
+                547,
+                578,
+                576,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": ",",
+            "box": [
+                579,
+                578,
+                581,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "热",
+            "box": [
+                591,
+                578,
+                604,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "机",
+            "box": [
+                606,
+                578,
+                619,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "等",
+            "box": [
+                620,
+                578,
+                634,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "/",
+            "box": [
+                635,
+                578,
+                640,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "新城",
+            "box": [
+                639,
+                578,
+                668,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "制造",
+            "box": [
+                670,
+                578,
+                697,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "工厂",
+            "box": [
+                698,
+                578,
+                727,
+                590
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "and",
+            "box": [
+                144,
+                588,
+                169,
+                598
+            ],
+            "label": "other"
+        },
+        {
+            "text": "its",
+            "box": [
+                172,
+                588,
+                189,
+                598
+            ],
+            "label": "other"
+        },
+        {
+            "text": "sources",
+            "box": [
+                193,
+                589,
+                245,
+                599
+            ],
+            "label": "other"
+        },
+        {
+            "text": "生产",
+            "box": [
+                143,
+                615,
+                177,
+                626
+            ],
+            "label": "question"
+        },
+        {
+            "text": "加工",
+            "box": [
+                177,
+                615,
+                211,
+                626
+            ],
+            "label": "question"
+        },
+        {
+            "text": "方式",
+            "box": [
+                212,
+                615,
+                245,
+                627
+            ],
+            "label": "question"
+        },
+        {
+            "text": "机器",
+            "box": [
+                379,
+                622,
+                408,
+                632
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "封装",
+            "box": [
+                408,
+                622,
+                437,
+                632
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "加工",
+            "box": [
+                437,
+                622,
+                466,
+                632
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Method",
+            "box": [
+                118,
+                630,
+                172,
+                641
+            ],
+            "label": "other"
+        },
+        {
+            "text": "of",
+            "box": [
+                176,
+                631,
+                193,
+                641
+            ],
+            "label": "other"
+        },
+        {
+            "text": "production",
+            "box": [
+                195,
+                631,
+                269,
+                641
+            ],
+            "label": "other"
+        },
+        {
+            "text": "办税",
+            "box": [
+                447,
+                657,
+                497,
+                669
+            ],
+            "label": "question"
+        },
+        {
+            "text": "人员",
+            "box": [
+                514,
+                657,
+                564,
+                669
+            ],
+            "label": "question"
+        },
+        {
+            "text": "王玉琴",
+            "box": [
+                674,
+                664,
+                724,
+                675
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "财务",
+            "box": [
+                150,
+                672,
+                183,
+                683
+            ],
+            "label": "question"
+        },
+        {
+            "text": "负责",
+            "box": [
+                185,
+                672,
+                218,
+                683
+            ],
+            "label": "question"
+        },
+        {
+            "text": "人",
+            "box": [
+                219,
+                672,
+                235,
+                683
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Responsible",
+            "box": [
+                428,
+                673,
+                499,
+                682
+            ],
+            "label": "other"
+        },
+        {
+            "text": "person",
+            "box": [
+                503,
+                673,
+                542,
+                682
+            ],
+            "label": "other"
+        },
+        {
+            "text": "for",
+            "box": [
+                545,
+                673,
+                563,
+                682
+            ],
+            "label": "other"
+        },
+        {
+            "text": "tax",
+            "box": [
+                566,
+                673,
+                583,
+                682
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Finance",
+            "box": [
+                143,
+                687,
+                189,
+                696
+            ],
+            "label": "other"
+        },
+        {
+            "text": "manager",
+            "box": [
+                193,
+                689,
+                244,
+                698
+            ],
+            "label": "other"
+        },
+        {
+            "text": "秦泽宇",
+            "box": [
+                318,
+                684,
+                370,
+                696
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "E",
+            "box": [
+                484,
+                696,
+                493,
+                704
+            ],
+            "label": "question"
+        },
+        {
+            "text": "-",
+            "box": [
+                494,
+                696,
+                499,
+                704
+            ],
+            "label": "question"
+        },
+        {
+            "text": "mail",
+            "box": [
+                499,
+                696,
+                530,
+                704
+            ],
+            "label": "question"
+        },
+        {
+            "text": "584689156@qq.com",
+            "box": [
+                666,
+                700,
+                801,
+                712
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "开户",
+            "box": [
+                163,
+                729,
+                212,
+                740
+            ],
+            "label": "question"
+        },
+        {
+            "text": "银行",
+            "box": [
+                231,
+                729,
+                281,
+                740
+            ],
+            "label": "question"
+        },
+        {
+            "text": "币",
+            "box": [
+                412,
+                729,
+                426,
+                741
+            ],
+            "label": "question"
+        },
+        {
+            "text": "种",
+            "box": [
+                461,
+                729,
+                478,
+                740
+            ],
+            "label": "question"
+        },
+        {
+            "text": "帐号",
+            "box": [
+                568,
+                730,
+                634,
+                741
+            ],
+            "label": "question"
+        },
+        {
+            "text": "是否",
+            "box": [
+                724,
+                729,
+                758,
+                740
+            ],
+            "label": "question"
+        },
+        {
+            "text": "缴税",
+            "box": [
+                758,
+                729,
+                791,
+                740
+            ],
+            "label": "question"
+        },
+        {
+            "text": "帐号",
+            "box": [
+                793,
+                729,
+                824,
+                740
+            ],
+            "label": "question"
+        },
+        {
+            "text": "Bank",
+            "box": [
+                133,
+                744,
+                165,
+                753
+            ],
+            "label": "other"
+        },
+        {
+            "text": "where",
+            "box": [
+                168,
+                744,
+                204,
+                753
+            ],
+            "label": "other"
+        },
+        {
+            "text": "account",
+            "box": [
+                207,
+                744,
+                254,
+                753
+            ],
+            "label": "other"
+        },
+        {
+            "text": "is",
+            "box": [
+                256,
+                745,
+                266,
+                753
+            ],
+            "label": "other"
+        },
+        {
+            "text": "opened",
+            "box": [
+                269,
+                745,
+                312,
+                754
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Currency",
+            "box": [
+                417,
+                745,
+                470,
+                753
+            ],
+            "label": "other"
+        },
+        {
+            "text": "A",
+            "box": [
+                563,
+                746,
+                573,
+                752
+            ],
+            "label": "other"
+        },
+        {
+            "text": "/",
+            "box": [
+                573,
+                746,
+                578,
+                752
+            ],
+            "label": "other"
+        },
+        {
+            "text": "C",
+            "box": [
+                578,
+                746,
+                586,
+                752
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Number",
+            "box": [
+                591,
+                746,
+                640,
+                752
+            ],
+            "label": "other"
+        },
+        {
+            "text": "Whether",
+            "box": [
+                689,
+                743,
+                748,
+                755
+            ],
+            "label": "other"
+        },
+        {
+            "text": "for",
+            "box": [
+                752,
+                745,
+                772,
+                755
+            ],
+            "label": "other"
+        },
+        {
+            "text": "tax",
+            "box": [
+                775,
+                745,
+                796,
+                755
+            ],
+            "label": "other"
+        },
+        {
+            "text": "payment",
+            "box": [
+                801,
+                746,
+                860,
+                757
+            ],
+            "label": "other"
+        },
+        {
+            "text": "中国人民银行",
+            "box": [
+                158,
+                765,
+                244,
+                774
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "人民币",
+            "box": [
+                416,
+                768,
+                458,
+                778
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "2568598457456854",
+            "box": [
+                538,
+                769,
+                654,
+                777
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是",
+            "box": [
+                738,
+                766,
+                759,
+                775
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "中国",
+            "box": [
+                161,
+                782,
+                188,
+                792
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "农业",
+            "box": [
+                189,
+                782,
+                217,
+                792
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "银行",
+            "box": [
+                218,
+                782,
+                247,
+                792
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "人民币",
+            "box": [
+                418,
+                783,
+                460,
+                792
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "5468524589456852",
+            "box": [
+                541,
+                785,
+                657,
+                792
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "是",
+            "box": [
+                741,
+                782,
+                758,
+                792
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "固定资产",
+            "box": [
+                452,
+                834,
+                545,
+                845
+            ],
+            "label": "question"
+        },
+        {
+            "text": "记账",
+            "box": [
+                149,
+                849,
+                191,
+                860
+            ],
+            "label": "question"
+        },
+        {
+            "text": "本位币",
+            "box": [
+                200,
+                849,
+                267,
+                860
+            ],
+            "label": "question"
+        },
+        {
+            "text": "折旧",
+            "box": [
+                447,
+                849,
+                489,
+                861
+            ],
+            "label": "other"
+        },
+        {
+            "text": "方法",
+            "box": [
+                500,
+                849,
+                550,
+                860
+            ],
+            "label": "other"
+        },
+        {
+            "text": "年限",
+            "box": [
+                628,
+                859,
+                661,
+                870
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "平均",
+            "box": [
+                662,
+                859,
+                695,
+                870
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "法",
+            "box": [
+                695,
+                859,
+                712,
+                870
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Currency",
+            "box": [
+                116,
+                864,
+                171,
+                874
+            ],
+            "label": "other"
+        },
+        {
+            "text": "used",
+            "box": [
+                174,
+                864,
+                201,
+                874
+            ],
+            "label": "other"
+        },
+        {
+            "text": "in",
+            "box": [
+                205,
+                865,
+                216,
+                874
+            ],
+            "label": "other"
+        },
+        {
+            "text": "book",
+            "box": [
+                220,
+                865,
+                250,
+                874
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                249,
+                865,
+                255,
+                874
+            ],
+            "label": "other"
+        },
+        {
+            "text": "keeping",
+            "box": [
+                254,
+                865,
+                301,
+                874
+            ],
+            "label": "other"
+        },
+        {
+            "text": "人民币",
+            "box": [
+                344,
+                860,
+                387,
+                869
+            ],
+            "label": "answer"
+        },
+        {
+            "text": "Fixed",
+            "box": [
+                454,
+                866,
+                491,
+                874
+            ],
+            "label": "other"
+        },
+        {
+            "text": "-",
+            "box": [
+                496,
+                866,
+                504,
+                874
+            ],
+            "label": "other"
+        },
+        {
+            "text": "assets",
+            "box": [
+                506,
+                866,
+                545,
+                875
+            ],
+            "label": "other"
+        },
+        {
+            "text": "depreciation",
+            "box": [
+                429,
+                879,
+                514,
+                890
+            ],
+            "label": "other"
+        },
+        {
+            "text": "method",
+            "box": [
+                518,
+                878,
+                568,
+                889
+            ],
+            "label": "other"
+        }
+    ]
+}
